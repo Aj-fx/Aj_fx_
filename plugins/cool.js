@@ -23,7 +23,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: "Gives github link of t
 
  *githublink : https://github.com/Aj-fx/Kaztroserv1*
 
- *ꪶ͢ᴀᴊ ғxꫂ⁩..♡︎*
+ *ᴀᴊ-ғxꫂ⁩..♡︎*
 `}) 
 
 }));
