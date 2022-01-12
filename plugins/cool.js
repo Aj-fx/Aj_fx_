@@ -1,63 +1,29 @@
-const asena = require('../events');
-const {MessageType} = require('@adiwajshing/baileys');
-const OWNER = "it sends details of owner"
-const GIT = "it sends links"
-const Config = require('../config');
+const Asena = require('../events');
+const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
+const axios = require('axios');
 
+const Language = require('../language');
+const Lang = Language.getString('wallpaper');
 
-if (Config.WORKTYPE == 'private') {
-        asena.addCommand({pattern: 'owner', fromMe: true, deleteCommand: true, desc: OWNER,}, (async (message, match) => {
+Asena.addCommand({pattern: 'owner', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var r_text = new Array ();
-    
-    r_text[1] = "*https://i.imgur.com/G2m5gTt.jpeg*\n           \n*⚜═ᴀᴊ ғx ═⚜*\n\n*ᴏᴡɴᴇʀ ᴀᴊᴀʏᴀɴ - 🥀*\n*            *\n*💙ᴋᴀᴢᴛʀᴏsᴇʀ💙*\n\n*▷Creator: ᴀᴊᴀʏᴀɴ ✝︎*"
+    var skl = await axios.get("https://i.imgur.com/G2m5gTt.jpeg", { responseType: 'arraybuffer' })
 
-    
-    await message.client.sendMessage(
-        message.jid,(r_text[1]), MessageType.text);
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bot Name: Kaztroserv1*
 
-    }));
+*Creator number : wa.me/918281440156?text=Hii%20Aj fx%20Ser.%20*
 
+ *To check update .update   To update Bot .update now*
 
-        asena.addCommand({pattern: 'git', fromMe: true, deleteCommand: true, desc: GIT,}, (async (message, match) => {
+ *Efx audios : https://chat.whatsapp.com/FmZqZDpjgyv8f2jVzfcGwp*
+     
+ *Instagram id: https://instagram.com/_ajayan_007?utm_medium=copy_link*
 
-        var r_text = new Array ();
-    
-        r_text[1] = "*Git links*\n           *\n🌟═ᴋᴀᴢᴛʀᴏsᴇʀ ᴏᴡɴᴇʀ ᴀᴊ ғx═🌟*\n\n*💥https://github.com/Aj-fx/Kaztroserv1*"
+ *Bot zone: https://chat.whatsapp.com/L38gYwSPTBILW3K4kdvMY1*
 
-    
-        await message.client.sendMessage(
-            message.jid,(r_text[1]), MessageType.text);
-    
-        }));    
+ *githublink : https://github.com/Aj-fx/Kaztroserv1*
 
-    }
-    
+ *ꪶ͢ᴀᴊ ғxꫂ⁩..♡︎*
+`}) 
 
-    if (Config.WORKTYPE == 'public') {
-        asena.addCommand({pattern: 'owner', fromMe: false, deleteCommand: true, desc: OWNER,}, (async (message, match) => {
-
-    var r_text = new Array ();
-    
-    r_text[1] = "*https://i.imgur.com/G2m5gTt.jpeg*\n           \n*⚜═ᴀᴊ ғx ═⚜*\n\n*ᴏᴡɴᴇʀ ᴀᴊᴀʏᴀɴ - 🥀*\n*            *\n*💙ᴋᴀᴢᴛʀᴏsᴇʀ💙*\n\n*▷Creator: ᴀᴊᴀʏᴀɴ ✝︎*"
-
-    
-    await message.client.sendMessage(
-        message.jid,(r_text[1]), MessageType.text);
-
-    }));
-
-
-        asena.addCommand({pattern: 'git', fromMe: false, deleteCommand: true, desc: GIT,}, (async (message, match) => {
-
-        var r_text = new Array ();
-    
-        r_text[1] = "*Git links*\n           *\n🌟═ᴋᴀᴢᴛʀᴏsᴇʀ ᴏᴡɴᴇʀ ᴀᴊ ғx═🌟*\n\n*💥https://github.com/Aj-fx/Kaztroserv1*"
-
-    
-        await message.client.sendMessage(
-            message.jid,(r_text[1]), MessageType.text);
-    
-        }));    
-
-    }
+}));
