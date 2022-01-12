@@ -9,11 +9,11 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: "Gives github link of t
 
     var skl = await axios.get("https://i.imgur.com/G2m5gTt.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bot Name: Kaztroserv1*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bot owner Ajayan*
 
 *Creator number : wa.me/918281440156?text=Hii%20Aj fx%20Ser.%20*
 
- *To check update .update   To update Bot .update now*
+ *🤖*
 
  *Efx audios : https://chat.whatsapp.com/FmZqZDpjgyv8f2jVzfcGwp*
      
