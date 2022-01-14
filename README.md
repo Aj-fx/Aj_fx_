@@ -7,7 +7,7 @@
 
 <div align="center">
   <p align="center">
-<img src=https://i.ibb.co/xCFcGCN/amalser.jpg>
+<img src=https://i.imgur.com/jDkKLYG.jpeg>
 </p>
   <p align="center">
 <a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Ajayan-cyberchekuthan/Kaztroser2_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
