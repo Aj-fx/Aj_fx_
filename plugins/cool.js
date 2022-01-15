@@ -19,7 +19,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: "Gives github link of t
 
  *Bot zone: https://chat.whatsapp.com/L38gYwSPTBILW3K4kdvMY1*
 
- *githublink : 👀*
+ *githublink : ɢɪᴛʜᴜʙ ʟɪɴᴋ ᴜɴᴀᴠᴀɪʟᴀʙʟᴇ*
 
  *ᴀᴊ-ғxꫂ⁩..♡︎*
 `}) 
