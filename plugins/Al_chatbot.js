@@ -1,4 +1,4 @@
-const New = require('../events');
+const New = require('../events'); 
 const ffmpeg = require('fluent-ffmpeg');
 const fs = require('fs');
 const https = require('https');
