@@ -1,4 +1,5 @@
-/* codded by ajfx
+/* codded by Kaztroser
+Remoded by - Ajfx
 */
 
 const { Sequelize } = require('sequelize');
