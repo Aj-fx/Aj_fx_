@@ -1,5 +1,6 @@
 /* Copyright (C) 2021 afnanplk.
 re-coded by TERROR BOY
+Remoded by - Ajfx
 */
 
 const Asena = require('../events');
