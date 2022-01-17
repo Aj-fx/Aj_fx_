@@ -32,7 +32,7 @@ module.exports = {
     PHONE: process.env.NUMBER === undefined ? '+918281440156' : process.env.NUMBER,   
     OA_NAME: process.env.DEPLOYER === undefined ? 'Ajfx' : process.env.DEPLOYER,
     ALL: process.env.ALL_CAPTION === undefined ? 'Made By Kaztroser' : process.env.ALL_CAPTION,
-    LG_LOGO: process.env.LG_LOGO === undefined ? 'https://telegra.ph/file/1986d89402b68b4f4aeca.jpg' : process.env.LG_LOGO,
+    LG_LOGO: process.env.LG_LOGO === undefined ? 'https://i.imgur.com/yQWf4ty.jpeg' : process.env.LG_LOGO,
     LOGO_NAME: process.env.LOGO_NAME === undefined ? 'Kaztroser' : process.env.LOGO_NAME,
     CODE: process.env.C_CODE === undefined ? '91' : process.env.C_CODE,
     MENTION: process.env.TAG_REPLY === undefined ? '918281440156@s.whatsapp.net' : process.env.TAG_REPLY,
