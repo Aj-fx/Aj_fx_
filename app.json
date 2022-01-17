@@ -38,12 +38,12 @@
         "LG_LOGO": {
             "description": "LOGO list message image link(https://telegra.ph/)link.",
             "required": true,
-            "value": "https://telegra.ph/file/1986d89402b68b4f4aeca.jpg"
+            "value": "https://i.imgur.com/yQWf4ty.jpeg"
         },
         "LOGO_NAME": {
             "description": "Set the logo list name",
             "required": true,
-            "value": "Amalser"
+            "value": "Kaztroser"
         },
         "ALIVE_BUTTON": {
             "description": "Set the alive message two name",
