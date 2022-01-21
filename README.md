@@ -20,7 +20,7 @@ Project created by <a href="https://github.com/cyberchekuthan">Kaztroserv4</a> t
     <br> 
 </p>
 
-## Setup
+# 🄲🄾🄽🅃🄸🄽🅄🄴 🅂🄴🅃🅄🄿 👇👇👇
 <div align="center"> 
   
   <a href="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/README.md"><span class="avatar"><img height='200' src="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/deploy.svg" alt="Error"> </a></span>
@@ -54,10 +54,9 @@ Click WA logo to Join Support Group 👇
 <br>
      <a href="https://chat.whatsapp.com/L38gYwSPTBILW3K4kdvMY1"><span class="avatar"><img height='200' src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png" alt="Error"> </a></span>
   <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aj-fx&repo=Kaztroserv4&theme=nightowl)](https://github.com/Aj-fx/Kaztroserv4)
-  </div>
     
+    **[![Kaztroserv4](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/918281440156?text=Can%20you%20help%20bro)**
+ 
 ### ⚠ Warning ⚠
 
 ```
@@ -74,7 +73,7 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![Kaztroserv4](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/918281440156?text=Can%20you%20help%20bro)**
+
 
 ## Developers
   <div align="center">
