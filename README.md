@@ -28,9 +28,9 @@ Project created by <a href="https://github.com/cyberchekuthan">Kaztroserv4</a> t
 
 ## Click Instagram logo to follow this page👇
 
-  <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='200' src="./photo/instagram.png" alt="Error"> </a></span>
+  <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='300' src="./photo/instagram.png" alt="Error"> </a></span>
   
- [![ANY DOUBT REFER IT](photo/instagram.png)](https://instagram.com/ajayan_007?utm_medium=copy_link)
+
 
 
 ----
@@ -52,6 +52,8 @@ Project created by <a href="https://github.com/cyberchekuthan">Kaztroserv4</a> t
 Click WA logo to Join Support Group 👇
     <br>
 <br>
+     <a href="https://chat.whatsapp.com/L38gYwSPTBILW3K4kdvMY1"><span class="avatar"><img height='300' src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png" alt="Error"> </a></span>
+    
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/L38gYwSPTBILW3K4kdvMY1)
   <div align="center">
        
