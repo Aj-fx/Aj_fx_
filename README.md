@@ -52,9 +52,7 @@ Project created by <a href="https://github.com/cyberchekuthan">Kaztroserv4</a> t
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-     <a href="https://chat.whatsapp.com/L38gYwSPTBILW3K4kdvMY1"><span class="avatar"><img height='300' src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png" alt="Error"> </a></span>
-    
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/L38gYwSPTBILW3K4kdvMY1)
+     <a href="https://chat.whatsapp.com/L38gYwSPTBILW3K4kdvMY1"><span class="avatar"><img height='200' src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png" alt="Error"> </a></span>
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aj-fx&repo=Kaztroserv4&theme=nightowl)](https://github.com/Aj-fx/Kaztroserv4)
