@@ -2,8 +2,6 @@
 <div align="left">
   <p align="left">
 <span class="avatar"><img width='500' height='500'  src=https://i.imgur.com/jDkKLYG.jpegalt=""> </a></span>
-</p>
-  <p align="right">
 <a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-ꪶ͢ᴀᴊ ғxꫂ⁩-cyberchekuthan/Kaztroserv4?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
