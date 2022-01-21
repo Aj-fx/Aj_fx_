@@ -27,7 +27,7 @@ Project created by <a href="https://github.com/cyberchekuthan">Kaztro-ser</a> to
 
 ## Click Instagram logo to follow this page👇
 
- [![ANY DOUBT REFER IT](photo/instagram.png)](https://youtu.be/5MKycJxmA4c)
+ [![ANY DOUBT REFER IT](photo/instagram.png)](https://instagram.com/ajayan_007?utm_medium=copy_link)
 
 
   ### Simple Method
