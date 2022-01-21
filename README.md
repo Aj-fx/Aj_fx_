@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/cyberchekuthan">Kaztroserv4</a> t
 ## Setup
 <div align="center"> 
   
-  <a href="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/README.md"><span class="avatar"><img height='300' src="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/deploy.svg" alt="Error"> </a></span>
+  <a href="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/README.md"><span class="avatar"><img height='250' src="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/deploy.svg" alt="Error"> </a></span>
 
 
 ## Click Instagram logo to follow this page👇
