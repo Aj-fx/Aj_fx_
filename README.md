@@ -30,36 +30,6 @@ Project created by <a href="https://github.com/cyberchekuthan">Kaztroserv4</a> t
 
  [![ANY DOUBT REFER IT](photo/instagram.png)](https://instagram.com/ajayan_007?utm_medium=copy_link)
 
-<!--
-  ### Simple Method
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztroserv4.git)
-
-
-
-  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
--->
-  
-### The Hard Method
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/Aj-fx/Kaztroserv4
-$ cd Kaztroserv4
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node julie.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/Aj-fx/Kaztroserv4
-$ cd Kaztroserv4
-$ npm i
-$ node julie.js
-```
 
 ----
 
