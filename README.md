@@ -2,12 +2,13 @@
 <div align="center">
   <p align="center">
 <span class="avatar"><img src="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/Ctonfs8p1Jq5.gif"> </a></span>
+<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-ꪶ͢ᴀᴊ ғxꫂ⁩-cyberchekuthan/Kaztroserv4?
 </p>
 </div>
 <div align="center">
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ+WA+Bot+repo;Created+by+Aj+fx;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
-  <a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-ꪶ͢ᴀᴊ ғxꫂ⁩-cyberchekuthan/Kaztroserv4?color=blue&style=for-the-badge&logo=whatsapp"></a>
+  color=blue&style=for-the-badge&logo=whatsapp"></a>
 
 <p align="center">
 Project created by <a href="https://github.com/cyberchekuthan">Kaztroserv4</a> to make it public
