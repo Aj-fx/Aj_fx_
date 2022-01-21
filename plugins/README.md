@@ -1,6 +1,30 @@
-<div align="center">
+<!--
+  ### Simple Method
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztroserv4.git)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ+WA+Bot+repo;Created+by+Aj+fx;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
 
- </a>
-</p>
+
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+-->
+  
+### The Hard Method
+```js
+GET QR
+$ apt install git
+$ apt install nodejs --fix-missing
+$ git clone https://github.com/Aj-fx/Kaztroserv4
+$ cd Kaztroserv4
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node julie.js
+```
+      
+```js
+SETUP
+$ git clone https://github.com/Aj-fx/Kaztroserv4
+$ cd Kaztroserv4
+$ npm i
+$ node julie.js
+```
