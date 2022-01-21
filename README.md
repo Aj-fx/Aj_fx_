@@ -1,7 +1,7 @@
 
 <div align="center">
   <p align="center">
-<span class="avatar"><img height='300' src="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/Ctonfs8p1Jq5.gif"> </a></span>
+<span class="avatar"><img src="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/Ctonfs8p1Jq5.gif"> </a></span>
 </p>
 <p align="center">
 <a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-ꪶ͢ᴀᴊ ғxꫂ⁩-cyberchekuthan/Kaztroserv4?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -20,14 +20,16 @@ Project created by <a href="https://github.com/cyberchekuthan">Kaztroserv4</a> t
     <br> 
 </p>
 
-# 🄲🄾🄽🅃🄸🄽🅄🄴 🅂🄴🅃🅄🄿
+## Setup
 <div align="center"> 
   
-  <a href="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/README.md"><span class="avatar"><img height='200' src="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/deploy.svg" alt="Error"> </a></span>
+  <a href="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/README.md"><span class="avatar"><img src="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/deploy.svg" alt="Error"> </a></span>
 
 
 ## Click Instagram logo to follow this page👇
 
+  <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='200' src="./photo/instagram.png" alt="Error"> </a></span>
+  
  [![ANY DOUBT REFER IT](photo/instagram.png)](https://instagram.com/ajayan_007?utm_medium=copy_link)
 
 
