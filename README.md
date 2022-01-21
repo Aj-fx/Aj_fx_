@@ -1,7 +1,7 @@
 
 <div align="left">
   <p align="left">
-<span class="avatar"><img width='500' height='500'  src="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/Ctonfs8p1Jq5.gif"> </a></span>
+<span class="avatar"><img src="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/Ctonfs8p1Jq5.gif"> </a></span>
 </p>
 </div>
 <div align="center">
