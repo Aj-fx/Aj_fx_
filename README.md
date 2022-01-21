@@ -65,7 +65,7 @@ Click WA logo to Join Support Group 👇
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Kaztroserv4](https://github.com/Aj-fx.png?size=100)](https://github.com/Aj-fx) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
 [farhan-dqz](https://github.com/farhan-dqz) | [ᴀᴊ-ғxꫂ⁩](https://github.com/Aj-fx) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
-Developer, Base,🄱🅄🄶 🄵🄸🅇🄴🅂, Modules| Re-Developer,🄼🄾🄳🅄🄻🄴🅂, Commits |  🄼🄾🄳🄸🄵🅈 & 🄼🄰🄽🄰🄶🄴🄼🄴🄽🅃 | Bug Fixes,🄼🄾🄳🅄🄻🄴🅂 
+Developer,🄱🅄🄶 🄵🄸🅇🄴🅂, Modules| Re-Develop,🄼🄾🄳🅄🄻🄴🅂,Commits |  modifying & 🄼🄰🄽🄰🄶🄴🄼🄴🄽🅃 | Bug Fixes,🄼🄾🄳🅄🄻🄴🅂 
   </div>
     
 ### ⚠ Warning ⚠
