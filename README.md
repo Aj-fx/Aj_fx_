@@ -1,7 +1,7 @@
 
 <div align="left">
   <p align="left">
-<span class="avatar"><img width='500' height='500'  src=https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Floading&psig=AOvVaw0gtgf30hVaA-2AdRGiZie3&ust=1642875303470000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCJr8q5w_UCFQAAAAAdAAAAABAD=""> </a></span>
+<span class="avatar"><img width='500' height='500'  src="https://github.com/Aj-fx/Kaztroserv2/blob/master/plugins/Ctonfs8p1Jq5.gif"> </a></span>
 </p>
 </div>
 <div align="center">
