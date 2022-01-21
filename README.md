@@ -13,10 +13,10 @@
   
 
 <p align="center">
-Project created by <a href="https://github.com/cyberchekuthan">Kaztroserv4</a> to make it public
+𝓟𝓻𝓸𝓳𝓮𝓬𝓽 𝓶𝓸𝓭𝓲𝓯𝓲𝓮𝓭 𝓫𝔂<a href="https://github.com/cyberchekuthan">𝙺𝚊𝚣𝚝𝚛𝚘𝚜𝚎𝚛𝚟𝟺</a>
     <br>
-       | © |
-        Reserved |
+       | 彡[©]彡 |
+        🆁🅴🆂🅴🆁🆅🅴🅳 |
     <br> 
 </p>
 
