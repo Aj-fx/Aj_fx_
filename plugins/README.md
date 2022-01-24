@@ -15,7 +15,7 @@
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Aj-fx/Kaztroserr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Aj-fx/Kaztroser?v=1)
   
 ### The Hard Method
 ```js
