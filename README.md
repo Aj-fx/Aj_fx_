@@ -1,7 +1,7 @@
 
 <div align="center">
   <p align="center">
-<span class="avatar"><img src="https://github.com/Aj-fx/Kaztrosir/blob/master/plugins/Ctonfs8p1Jq5.gif"> </a></span>
+<span class="avatar"><img src="https://github.com/Aj-fx7/Kaztrosir/blob/master/plugins/Ctonfs8p1Jq5.gif"> </a></span>
 </p>
 <p align="center">
 <a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-ꪶ͢ᴀᴊ ғxꫂ⁩-cyberchekuthan/Kaztrosir?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -26,7 +26,7 @@
 # 🄲🄾🄽🅃🄸🄽🅄🄴 🅂🄴🅃🅄🄿 👇👇👇
 <div align="center"> 
   
-  <a href="https://github.com/Aj-fx/Kaztrosir/blob/master/plugins/README.md"><span class="avatar"><img height='200' src="https://github.com/Aj-fx/Kaztrosir/blob/master/plugins/deploy.svg" alt="Error"> </a></span>
+  <a href="https://github.com/Aj-fx7/Kaztrosir/blob/master/plugins/README.md"><span class="avatar"><img height='200' src="https://github.com/Aj-fx7/Kaztrosir/blob/master/plugins/deploy.svg" alt="Error"> </a></span>
 
 # 🄲🄻🄸🄲🄺 🄳🄴🄿🄻🄾🅈 🅃🄾 🄲🄾🄽🅃🄸🄽🅄🄴
 
@@ -40,16 +40,16 @@
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Aj-fx/Kaztrosir">
+  <a href="httsp://github.com/Aj-fx7/Kaztrosir">
     
-<a href="https://github.com/Aj-fx/followers">
+<a href="https://github.com/Aj-fx7/followers">
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztrosir_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Aj-fx/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztrosir/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aj-fx/Kaztrosir?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztrosir/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aj-fx/Kaztrosir?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztrosir/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aj-fx/Kaztrosir?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx7/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/Aj-fx7?color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx7/Kaztrosir/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aj-fx7/Kaztrosir?color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx7/Kaztrosir/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aj-fx7/Kaztrosir?color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx7/Kaztrosir/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aj-fx7/Kaztrosir?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -66,9 +66,9 @@ Click WA logo to Join Support Group 👇
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Kaztrosir](https://github.com/Aj-fx.png?size=100)](https://github.com/Aj-fx) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Kaztrosir](https://github.com/Aj-fx7.png?size=100)](https://github.com/Aj-fx7) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [ᴀᴊ-ғxꫂ⁩](https://github.com/Aj-fx) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[farhan-dqz](https://github.com/farhan-dqz) | [ᴀᴊ-ғxꫂ⁩](https://github.com/Aj-fx7) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer,🄱🅄🄶 🄵🄸🅇🄴🅂, Modules| Re-Develop,🄼🄾🄳🅄🄻🄴🅂,Commits |  modifying & 🄼🄰🄽🄰🄶🄴🄼🄴🄽🅃 | Bug Fixes,🄼🄾🄳🅄🄻🄴🅂 
   </div>
     
