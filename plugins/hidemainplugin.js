@@ -2,7 +2,7 @@
 Re-edit Aj-fx
 */
 
-const Amalser = require('../events'); 
+const Amalser = require('../events');  
 const {MessageType, GroupSettingChange, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
 const fs = require('fs');
 const Config = require('../config')
