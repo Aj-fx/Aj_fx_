@@ -1,7 +1,7 @@
 /* COPYRIGHT © HISHAN-SOPHIA
    RE-EDIT - Ajfx
 */
-const Hisham = require('../events');
+const Hisham = require('../events'); 
 const {MessageType} = require('@adiwajshing/baileys');
 const exec = require('child_process').exec;
 const os = require("os");
