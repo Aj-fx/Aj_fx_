@@ -1,5 +1,5 @@
 /* COPYRIGHT © HISHAN-SOPHIA
-   RE-EDIT - Ajfx
+   RE-EDIT - AJFX
 */
 const Hisham = require('../events'); 
 const {MessageType} = require('@adiwajshing/baileys');
