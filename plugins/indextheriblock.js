@@ -1,4 +1,4 @@
-/* COPYRIGHT © HISHAN-SOPHIA
+/* COPYRIGHT © HISHAN-SOPHIA 
    RE-EDIT - AJFX
 */
 const Hisham = require('../events'); 
