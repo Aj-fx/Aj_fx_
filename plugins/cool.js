@@ -11,13 +11,11 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: "Gives github link of t
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bot owner Aj-fx💞*
 
-*Creator number : wa.me/918281440156?text=Hi%20Aj-fx%20bro.%20*
+*Creator number : wa.me/918281440156?text=Hi%20Aj-fx%20bro%20*
 
- *Efx audios : https://chat.whatsapp.com/FmZqZDpjgyv8f2jVzfcGwp*
-     
  *Instagram id: https://instagram.com/_ajayan_007?utm_medium=copy_link*
 
- *Bot zone: https://chat.whatsapp.com/L38gYwSPTBILW3K4kdvMY1*
+ *Bot zone: https://chat.whatsapp.com/INAF26f54MMJtzhkmgchtV*
 
  *github link : ɢɪᴛʜᴜʙ ʟɪɴᴋ ᴜɴᴀᴠᴀɪʟᴀʙʟᴇ*
 
