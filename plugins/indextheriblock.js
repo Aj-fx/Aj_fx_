@@ -1,5 +1,5 @@
 /* COPYRIGHT © HISHAN-SOPHIA
-   RE-CODED - TERROR BOY
+   RE-EDIT - Ajfx
 */
 const Hisham = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
