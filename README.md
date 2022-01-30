@@ -32,7 +32,7 @@
 2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Aj-fx/Kaztroser?v=1)
   
-3.If You don't have a account in heroku👇
+3.If You don't have a account in heroku Create a account👇
 
  <a href="https://signup.heroku.com"><span class="avatar"><img height='50' src="./photo/hh.png" alt="Error"> </a></span>
 
