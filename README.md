@@ -43,10 +43,12 @@
 
 5. Now https://heroku.com/deploy?template=https://github.com/Aj-fx7/Kaztroser1 copy this url and change Aj-fx7 with your github username and click go<br>
 
+
 <div align="center"> 
   
   <a href="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/README.md"><span class="avatar"><img height='1' src="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/deploy.svg" alt="Error"> </a></span>
-
+  
+ <img src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
 ## Click Instagram logo to follow this page👇
 
