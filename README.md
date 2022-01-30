@@ -41,6 +41,8 @@
 
  <a href="https://github.com/Aj-fx7/Kaztroser1/fork"><span class="avatar"><img height='100' src="./photo/appu.png" alt="Error"> </a></span>
 
+5. Now https://heroku.com/deploy?template=https://github.com/Aj-fx7/Kaztroser1 copy this url and change Aj-fx7 with your github username and click go<br>
+
 <div align="center"> 
   
   <a href="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/README.md"><span class="avatar"><img height='50' src="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/deploy.svg" alt="Error"> </a></span>
