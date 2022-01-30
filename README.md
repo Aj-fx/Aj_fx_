@@ -22,6 +22,9 @@
         🆁🅴🆂🅴🆁🆅🅴🅳 |
     <br> 
 </p>
+
+
+## If there is an error deploying, try the following steps
  <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='50' src="./photo/hh.png" alt="Error"> </a></span>
   
 # 🄲🄾🄽🅃🄸🄽🅄🄴 🅂🄴🅃🅄🄿 👇👇👇
@@ -59,9 +62,7 @@ Click WA logo to Join Support Group 👇
 <br>
      <a href="https://chat.whatsapp.com/L38gYwSPTBILW3K4kdvMY1"><span class="avatar"><img height='200' src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png" alt="Error"> </a></span>
   <div align="center">
-    
-**[![Kaztroser1](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/918281440156?text=Can%20you%20help%20bro)**
- 
+     
 
 
 ## Developers
