@@ -29,6 +29,9 @@
  1. If you dont have a github account create a account. Click github logo
 <a href="https://github.com/signup/"><span class="avatar"><img height='50' src="./photo/aj.png" alt="Error"> </a></span>
  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Aj-fx/Kaztroser?v=1)
+  
+
  <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='50' src="./photo/hh.png" alt="Error"> </a></span>
 
 <div align="center"> 
