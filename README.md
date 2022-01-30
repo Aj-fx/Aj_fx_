@@ -36,7 +36,10 @@
 
  <a href="https://signup.heroku.com"><span class="avatar"><img height='50' src="./photo/hh.png" alt="Error"> </a></span>
 
- <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='50' src="./photo/appu.png" alt="Error"> </a></span>
+4. You will have to fork this git to deploy via Heroku.
+  click to fork the git into your account click this logo
+
+ <a href="https://github.com/Aj-fx7/Kaztroser1/fork"><span class="avatar"><img height='100' src="./photo/appu.png" alt="Error"> </a></span>
 
 <div align="center"> 
   
@@ -45,7 +48,7 @@
 
 ## Click Instagram logo to follow this page👇
 
-  <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='300' src="./photo/instagram.png" alt="Error"> </a></span>
+  <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='200' src="./photo/instagram.png" alt="Error"> </a></span>
   
 
 ----
@@ -67,7 +70,7 @@
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-     <a href="https://chat.whatsapp.com/L38gYwSPTBILW3K4kdvMY1"><span class="avatar"><img height='200' src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png" alt="Error"> </a></span>
+     <a href="https://chat.whatsapp.com/L38gYwSPTBILW3K4kdvMY1"><span class="avatar"><img height='100' src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png" alt="Error"> </a></span>
   <div align="center">
      
 
