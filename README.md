@@ -23,7 +23,7 @@
     <br> 
 </p>
 
-### SETUP
+### SIMPLE SETUP
 
 ## If there is an error deploying, try the following steps
  
