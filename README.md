@@ -44,12 +44,6 @@
 5. Now https://heroku.com/deploy?template=https://github.com/Aj-fx7/Kaztroser1 copy this url and change Aj-fx7 with your github username and click go<br>
 
 
-<div align="center"> 
-  
-  <a href="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/README.md"><span class="avatar"><img height='50' src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
-  
- <img src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
-
 ## Click Instagram logo to follow this page👇
 
   <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='200' src="./photo/instagram.png" alt="Error"> </a></span>
@@ -59,7 +53,9 @@
 
   <p align="center">
   <a href="httsp://github.com/Aj-fx7/Kaztroser1">
-    
+   
+<a href="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
+     
 <a href="https://github.com/Aj-fx7/followers">
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroser1_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
