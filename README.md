@@ -68,10 +68,10 @@ Click WA logo to Join Support Group 👇
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Kaztroser1](https://github.com/Aj-fx7.png?size=100)](https://github.com/Aj-fx7) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/ajayancr.png?size=100)](https://github.com/ajayancr) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [ᴀᴊ-ғxꫂ⁩](https://github.com/Aj-fx7) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
-Developer,🄱🅄🄶 🄵🄸🅇🄴🅂, Modules| Re-Develop,🄼🄾🄳🅄🄻🄴🅂,Commits |  modifying & 🄼🄰🄽🄰🄶🄴🄼🄴🄽🅃 | Bug Fixes,🄼🄾🄳🅄🄻🄴🅂 
+[farhan-dqz](https://github.com/farhan-dqz) | [✯ᴀᴊᴀʏᴀɴ✯](https://github.com/ajayancr) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
 **[![Kaztroser1](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/918281440156?text=Can%20you%20help%20bro)**
