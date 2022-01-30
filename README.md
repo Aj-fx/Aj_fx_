@@ -26,9 +26,9 @@
 
 ## If there is an error deploying, try the following steps
  
-<a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='50' src="./photo/hh.png" alt="Error"> </a></span>
+<a href="https://github.com/signup/"><span class="avatar"><img height='50' src="./photo/aj.png" alt="Error"> </a></span>
  
- <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='50' src="./photo/aj.png" alt="Error"> </a></span>
+ <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='50' src="./photo/hh.png" alt="Error"> </a></span>
 
 <div align="center"> 
   
