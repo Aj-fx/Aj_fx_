@@ -27,19 +27,16 @@
 ## If there is an error deploying, try the following steps
  <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='50' src="./photo/hh.png" alt="Error"> </a></span>
   
-# 🄲🄾🄽🅃🄸🄽🅄🄴 🅂🄴🅃🅄🄿 👇👇👇
+
 <div align="center"> 
   
-  <a href="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/README.md"><span class="avatar"><img height='200' src="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/deploy.svg" alt="Error"> </a></span>
+  <a href="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/README.md"><span class="avatar"><img height='50' src="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/deploy.svg" alt="Error"> </a></span>
 
-# 🄲🄻🄸🄲🄺 🄳🄴🄿🄻🄾🅈 🅃🄾 🄲🄾🄽🅃🄸🄽🅄🄴
 
 ## Click Instagram logo to follow this page👇
 
   <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='300' src="./photo/instagram.png" alt="Error"> </a></span>
   
-
-
 
 ----
 
