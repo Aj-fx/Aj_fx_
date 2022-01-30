@@ -29,8 +29,7 @@
  1. If you dont have a github account create a account. Click github logo
 <a href="https://github.com/signup/"><span class="avatar"><img height='50' src="./photo/aj.png" alt="Error"> </a></span>
  
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR codw
-
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Aj-fx/Kaztroser?v=1)
   
 3.If You don't have a account in heroku👇
