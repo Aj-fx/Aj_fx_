@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center"> 
   <p align="center">
 <span class="avatar"><img src="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/Ctonfs8p1Jq5.gif"> </a></span>
 </p>
