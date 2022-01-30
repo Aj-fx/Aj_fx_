@@ -25,7 +25,7 @@
 
 ### SIMPLE SETUP
 
-## If there is an error deploying,try the following steps
+## If there is an error deploying,try the following 5steps
  1. If you dont have a github account create a account. Click github logo
 <a href="https://github.com/signup/"><span class="avatar"><img height='50' src="./photo/aj.png" alt="Error"> </a></span>
  
@@ -45,7 +45,7 @@
 
 <div align="center"> 
   
-  <a href="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/README.md"><span class="avatar"><img height='50' src="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/deploy.svg" alt="Error"> </a></span>
+  <a href="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/README.md"><span class="avatar"><img height='1' src="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/deploy.svg" alt="Error"> </a></span>
 
 
 ## Click Instagram logo to follow this page👇
