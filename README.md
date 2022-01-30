@@ -46,7 +46,7 @@
 
 <div align="center"> 
   
-  <a href="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/README.md"><span class="avatar"><img height='1' src="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/deploy.svg" alt="Error"> </a></span>
+  <a href="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/README.md"><span class="avatar"><img height='50' src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
   
  <img src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
