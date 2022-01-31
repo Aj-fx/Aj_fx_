@@ -7,7 +7,7 @@
 <a href="https://github.com/ajayancr"><img title="Author" src="https://img.shields.io/badge/Author-✯ᴀᴊᴀʏᴀɴ✯-ajayancr/Sara?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
-𝓟𝓻𝓸𝓳𝓮𝓬𝓽 𝓶𝓸𝓭𝓲𝓯𝓲𝓮𝓭 𝓫𝔂 <a href="https://github.com/cyberchekuthan">𝙺𝚊𝚣𝚝𝚛𝚘𝚜𝚎𝚛𝚟𝟺</a>
+𝓟𝓻𝓸𝓳𝓮𝓬𝓽 𝓶𝓸𝓭𝓲𝓯𝓲𝓮𝓭 𝓫𝔂 <a href="https://github.com/cyberchekuthan">𝙺𝚊𝚣𝚝𝚛𝚘𝚜𝚎𝚛</a>
     <br>
        | 彡[©]彡 |
        🆁🅴🆂🅴🆁🆅🅴🅳 |
