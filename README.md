@@ -12,7 +12,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+𝙺𝚊𝚣𝚝𝚛𝚘𝚜𝚎𝚛+WA+Bot+repo;Created+by+Aj+fx;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
   
   <p align="center">
-<span class="avatar"><img height='350' src="http://i.imgur.com/jDkKLYG.jpegalt"> </a></span>
+<span class="avatar"><img height='360' src="photo/Kaztroser.jpg"> </a></span>
 </p>
 
 <p align="center">
