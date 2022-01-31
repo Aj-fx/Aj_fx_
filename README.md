@@ -62,7 +62,7 @@
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-     <a href="https://chat.whatsapp.com/L38gYwSPTBILW3K4kdvMY1"><span class="avatar"><img height='100' src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png" alt="Error"> </a></span>
+     <a href="https://chat.whatsapp.com/HfaRULUgc4SHpcWZjACAAU"><span class="avatar"><img height='100' src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png" alt="Error"> </a></span>
   <div align="center">
      
 
