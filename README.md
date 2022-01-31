@@ -1,7 +1,7 @@
 
 <div align="center">
   <p align="center">
-<span class="avatar"><img src="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/Ctonfs8p1Jq5.gif"> </a></span>
+     <a href="https://signup.heroku.com"><span class="avatar"><img height='50' src="https://i.imgur.com/9j5poMG.jpeg" alt="Error"> </a></span>
 </p>
 <p align="center">
 <a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-ꪶ͢ᴀᴊ ғxꫂ⁩-cyberchekuthan/Kaztroser1?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -10,7 +10,7 @@
 <div align="center">
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+𝙺𝚊𝚣𝚝𝚛𝚘𝚜𝚎𝚛+WA+Bot+repo;Created+by+Aj+fx;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
-  
+ 
   <p align="center">
 <span class="avatar"><img height='330' src="photo/Kaztroser.jpg"> </a></span>
 </p>
