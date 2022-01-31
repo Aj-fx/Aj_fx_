@@ -1,7 +1,7 @@
 
 <div align="center">
   <p align="center">
-     <a href="https://signup.heroku.com"><span class="avatar"><img height='50' src="https://i.imgur.com/9j5poMG.jpeg" alt="Error"> </a></span>
+     <a href="https://signup.heroku.com"><span class="avatar"><img height='420' src="https://i.imgur.com/Usak2QP.jpeg" alt="Error"> </a></span>
 </p>
 <p align="center">
 <a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-ꪶ͢ᴀᴊ ғxꫂ⁩-cyberchekuthan/Kaztroser1?color=blue&style=for-the-badge&logo=whatsapp"></a>
