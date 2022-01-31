@@ -3,13 +3,14 @@
   <p align="center">
 <span class="avatar"><img height='330' src="photo/Kaztroser.jpg"> </a></span>
 </p>
-<a href="https://i.imgur.com/Usak2QP.jpeg"><img title="Author" src="https://img.shields.io/badge/Author-ꪶ͢ᴀᴊ ғxꫂ⁩-cyberchekuthan/Kaztroser1?color=blue&style=for-the-badge&logo=whatsapp"></a>
-
+  <p align="center">
+<a href="https://github.com/ajayancr"><img title="Author" src="https://img.shields.io/badge/Author-✯ᴀᴊᴀʏᴀɴ✯-ajayancr/Sara?color=blue&style=for-the-badge&logo=whatsapp"></a>
+</p>
 <p align="center">
 𝓟𝓻𝓸𝓳𝓮𝓬𝓽 𝓶𝓸𝓭𝓲𝓯𝓲𝓮𝓭 𝓫𝔂 <a href="https://github.com/cyberchekuthan">𝙺𝚊𝚣𝚝𝚛𝚘𝚜𝚎𝚛𝚟𝟺</a>
     <br>
        | 彡[©]彡 |
-        🆁🅴🆂🅴🆁🆅🅴🅳 |
+       🆁🅴🆂🅴🆁🆅🅴🅳 |
     <br> 
 </p>
 
