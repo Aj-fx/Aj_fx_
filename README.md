@@ -1,19 +1,9 @@
-
-<div align="center">
-  <p align="center">
-     <a href="https://signup.heroku.com"><span class="avatar"><img height='420' src="https://i.imgur.com/Usak2QP.jpeg" alt="Error"> </a></span>
-</p>
-<p align="center">
-<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-ꪶ͢ᴀᴊ ғxꫂ⁩-cyberchekuthan/Kaztroser1?color=blue&style=for-the-badge&logo=whatsapp"></a>
-</p>
-</div>
-<div align="center">
-
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+𝙺𝚊𝚣𝚝𝚛𝚘𝚜𝚎𝚛+WA+Bot+repo;Created+by+Aj+fx;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
  
   <p align="center">
 <span class="avatar"><img height='330' src="photo/Kaztroser.jpg"> </a></span>
 </p>
+<a href="https://i.imgur.com/Usak2QP.jpeg"><img title="Author" src="https://img.shields.io/badge/Author-ꪶ͢ᴀᴊ ғxꫂ⁩-cyberchekuthan/Kaztroser1?color=blue&style=for-the-badge&logo=whatsapp"></a>
 
 <p align="center">
 𝓟𝓻𝓸𝓳𝓮𝓬𝓽 𝓶𝓸𝓭𝓲𝓯𝓲𝓮𝓭 𝓫𝔂 <a href="https://github.com/cyberchekuthan">𝙺𝚊𝚣𝚝𝚛𝚘𝚜𝚎𝚛𝚟𝟺</a>
