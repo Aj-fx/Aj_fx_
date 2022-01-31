@@ -44,11 +44,11 @@
 
   <p align="center">
   <a href="httsp://github.com/Aj-fx7/Kaztroser1">
-   
+   <p align="center">
 <a href="https://github.com/Aj-fx7/Kaztroser1/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
-     
 <a href="https://github.com/Aj-fx7/followers">
-<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroser1_v2?color=green&label=Repo%20total%20size&style=plastic">
+  <p align="center">
+<img src="https://img.shields.io/github/repo-size/Aj-fx7/Kaztroser1?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Aj-fx7/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx7?color=blue&style=flat-square"></a>
