@@ -32,9 +32,9 @@
   click to fork the git into your account click this logo
    
 <p align="center">
- <a href="https://github.com/Aj-fx/Kaztroser1/fork"><span class="avatar"><img height='100' src="./photo/appu.png" alt="Error"> </a></span>
+ <a href="https://github.com/Aj-fx/Kaztro-ser/fork"><span class="avatar"><img height='100' src="./photo/appu.png" alt="Error"> </a></span>
 
-5. Now https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztroser1 copy this url and change Aj-fx with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro-ser copy this url and change Aj-fx with your github username and click go<br>
 
 ## Click Instagram logo to follow this page👇
 
@@ -44,18 +44,18 @@
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Aj-fx/Kaztroser1">
+  <a href="httsp://github.com/Aj-fx/Kaztro-ser">
    <p align="center">
-<a href="https://github.com/Aj-fx/Kaztroser1/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
+<a href="https://github.com/Aj-fx/Kaztro-ser/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
 <a href="https://github.com/Aj-fx/followers">
   <p align="center">
-<img src="https://img.shields.io/github/repo-size/Aj-fx/Kaztroser1?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/Aj-fx/Kaztro-ser?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Aj-fx/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztroser1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aj-fx/Kaztroser1?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztroser1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aj-fx/Kaztroser1?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztroser1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aj-fx/Kaztroser1?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx/Kaztro-ser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aj-fx/Kaztro-ser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx/Kaztro-ser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aj-fx/Kaztro-ser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx/Kaztro-ser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aj-fx/Kaztro-ser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -70,19 +70,19 @@ Click WA logo to Join Support Group 👇
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Kaztroser1](https://github.com/Aj-fx.png?size=100)](https://github.com/Aj-fx) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![AJFX7](https://github.com/Aj-fx.png?size=1000)](https://github.com/Aj-fx) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Kaztro-ser](https://github.com/Aj-fx.png?size=100)](https://github.com/Aj-fx) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![AJFX7](https://github.com/Aj-fx.png?size=1000)](https://github.com/Aj-fx) 
 ----|----|----|----
 [farhan-dqz](https://github.com/farhan-dqz) | [ᴀᴊғx](https://github.com/Aj-fx) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [AJFX7](https://github.com/Aj-fx) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
-**[![Kaztroser1](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/918281440156?text=Can%20you%20help%20bro)**
+**[![Kaztro-ser](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/918281440156?text=Can%20you%20help%20bro)**
     
 ### ⚠ Warning ⚠
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-Kaztroser1_v2 or we are not responsible for your account, 
+Kaztro-ser_v2 or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
