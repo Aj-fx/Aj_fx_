@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:latest   
+FROM fusuf/whatsasena:latest    
 
 RUN git clone https://github.com/Aj-fx/Kaztroser /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
