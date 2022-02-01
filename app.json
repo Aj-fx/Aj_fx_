@@ -19,7 +19,6 @@
          "INSTA_PASSWORD": {
             "description": "enter the password, to get password request owner http://wa.me/918281440156  .",
             "required": true
-            "value": "ajfx"
         },
         "LANGUAGE": {
             "description": "Bot language.English => en",
