@@ -15,7 +15,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: "Gives github link of t
 
  *Instagram id: https://instagram.com/_ajayan_007?utm_medium=copy_link*
 
- *Bot zone: https://chat.whatsapp.com/HfaRULUgc4SHpcWZjACAAU*
+ *Bot zone: https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f*
 
 
  *ᴀᴊ-ғxꫂ⁩..♡︎*
