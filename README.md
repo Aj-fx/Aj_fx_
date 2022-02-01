@@ -13,6 +13,7 @@
        🆁🅴🆂🅴🆁🆅🅴🅳 |
     <br> 
 </p>
+### Insta password- ajfx
 
 ### SIMPLE SETUP
 
@@ -62,7 +63,7 @@
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-     <a href="https://chat.whatsapp.com/HfaRULUgc4SHpcWZjACAAU"><span class="avatar"><img height='100' src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png" alt="Error"> </a></span>
+     <a href="https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f"><span class="avatar"><img height='100' src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png" alt="Error"> </a></span>
   <div align="center">
      
 
