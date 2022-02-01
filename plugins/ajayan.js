@@ -17,7 +17,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
  *Bot zone: https://chat.whatsapp.com/HfaRULUgc4SHpcWZjACAAU*
 
- *github link : https://github.com/Aj-fx/Kaztroser*
+ *github link : https://github.com/Aj-fx/Kaztro-serv2*
 
  *ᴀᴊ-ғxꫂ⁩..♡︎*
 `}) 
