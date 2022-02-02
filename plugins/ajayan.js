@@ -15,7 +15,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
      
  *Instagram id: https://instagram.com/_ajayan_007?utm_medium=copy_link*
 
- *Bot zone: https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f*
+ *ᴋᴀᴢᴛʀᴏsᴇ ʙᴏᴛ: https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f*
 
  *github link : https://github.com/Aj-fx/Kaztro-serv2*
 
