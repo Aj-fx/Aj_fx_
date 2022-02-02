@@ -1,6 +1,6 @@
 {
     "name": "ᴋᴀᴢᴛʀᴏsᴇʀ ",   
-    "description": "ᴋᴀᴢᴛʀᴏsᴇʀ is the Modified Version of WhatsAsena, Made By @ᴀᴊ-ғx with Baileys.",
+    "description": "ᴋᴀᴢᴛʀᴏsᴇʀ is the Modified Version of WhatsAsena, Made By @Aj-fx with Baileys.",
     "logo": "https://i.imgur.com/jDkKLYG.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/Aj-fx/Kaztro",
@@ -17,7 +17,7 @@
             "required": false
         },
          "INSTA_PASSWORD": {
-            "description": "enter the password, to get password request owner http://wa.me/918281440156  .",
+            "description": "enter the password,password ajfx  .",
             "required": true
         },
         "LANGUAGE": {
@@ -199,7 +199,7 @@
             "value": "༺══✘ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ✘══༻"
         },
         "WORK_TYPE": {
-            "description": "Amalser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "Kaztroser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
