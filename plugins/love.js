@@ -20,7 +20,7 @@ var split = Config.AJ_FX.split('/');
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-Amalser.addCommand({pattern: 'git', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+Amalser.addCommand({pattern: 'ajayan', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
 // send a buttons message!credit Ajayan
     const buttons = [
         {buttonId: 'id1', buttonText: {displayText: sk1 }, type: 1},
