@@ -1,4 +1,4 @@
-/* Kaztroserv1 Bot 
+/* Kaztroser Bot 
 Re-edit Aj-fx
 */
 
