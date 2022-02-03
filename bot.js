@@ -30,7 +30,7 @@ const WhatsAsenaDB = config.DATABASE.define('WhatsAsena', {
     },
     value: {
         type: DataTypes.TEXT,
-        allowNull: false
+        allowNull: false 
     }
 });
 
@@ -154,7 +154,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('ᴋᴀᴢᴛʀᴏsᴇʀᴠ2 ᴡᴏʀᴋɪɴɢ ' + config.WORKTYPE + ' ɴᴏᴡ 💙'));
+            chalk.green.bold('ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ ᴡᴏʀᴋɪɴɢ ' + config.WORKTYPE + ' ɴᴏᴡ 💞'));
           // thanks to afnanplk
 	    if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
