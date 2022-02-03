@@ -12,7 +12,7 @@ const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
 
 Kaztroser.addCommand({pattern: 'ajfx', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
 
-    var r_text = new Array ();
+    var r_text = new Array (); 
     
     
     r_text[0] = "https://i.imgur.com/w89FHm7.jpeg";
