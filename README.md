@@ -79,6 +79,6 @@ Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |
   </div>
 
 ## 𝗖𝗟𝗜𝗖𝗞 𝗟𝗢𝗚𝗢
-  <a href="http://wa.me/918281440156?text=Can%20you%20help%20bro"><span class="avatar"><img height='55' src="./photo/dlove.png" alt="Error"> </a></span>
+  <a href="http://wa.me/918281440156?text=Can%20you%20help%20bro"><span class="avatar"><img height='50' src="./photo/dlover.png" alt="Error"> </a></span>
 
 
