@@ -7,14 +7,14 @@
 <a href="https://github.com/ajayancr"><img title="Author" src="https://img.shields.io/badge/Author-✯ᴀᴊᴀʏᴀɴ✯-ajayancr/Sara?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
-𝓟𝓻𝓸𝓳𝓮𝓬𝓽 𝓶𝓸𝓭𝓲𝓯𝓲𝓮𝓭 𝓫𝔂 <a href="https://github.com/cyberchekuthan">𝙺𝚊𝚣𝚝𝚛𝚘𝚜𝚎𝚛</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴍᴏᴅɪғɪᴇᴅ ʙʏ<a href="https://github.com/cyberchekuthan">ᴀͥᴊͭᴀᷤʏᴀͫɴͤ</a>
     <br>
        | 彡[©]彡 |
        🆁🅴🆂🅴🆁🆅🅴🅳 |
     <br> 
 </p>
 
-### Insta password ajfx
+### 𝗜𝗡𝗦𝗧𝗔 𝗣𝗔𝗦𝗦𝗪𝗢𝗥𝗗:ajfx
 
 ### SIMPLE SETUP
 
@@ -38,7 +38,7 @@
 
 5. Now https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro-serv2 copy this url and change Aj-fx with your github username and click go<br>
 
-## Click Instagram logo👇
+## 𝗖𝗟𝗜𝗖𝗞 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 𝗟𝗢𝗚𝗢👇
 
   <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='50' src="./photo/Noorin.png" alt="Error"> </a></span>
   
@@ -61,15 +61,15 @@
 </p>
 
 ## 📢 Guide
-Click WA logo to Join Support Group 👇
+ 𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗟𝗢𝗚𝗢 𝗝𝗢𝗜𝗡 𝗚𝗥𝗢𝗨𝗣👇
     <br>
 <br>
-     <a href="https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f"><span class="avatar"><img height='100' src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png" alt="Error"> </a></span>
+  <a href="https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f"><span class="avatar"><img height='55' src="./photo/group.png" alt="Error"> </a></span>
   <div align="center">
      
 
 
-## Developers
+## 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥𝗦
   <div align="center">
     
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Kaztro-serv2](https://github.com/Aj-fx.png?size=100)](https://github.com/Aj-fx) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![Amal-sir](https://github.com/Amal-ser.png?size=1000)](https://github.com/Amal-ser) 
@@ -77,6 +77,8 @@ Click WA logo to Join Support Group 👇
 [farhan-dqz](https://github.com/farhan-dqz) | [ᴀᴊғx](https://github.com/Aj-fx) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [AMALSER](https://github.com/Amal-ser) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
-    
-**[![Kaztro-serv2](https://i.imgur.com/zMa7aL8.jpeg)](http://wa.me/918281440156?text=Can%20you%20help%20bro)**
-    
+
+## 𝗖𝗟𝗜𝗖𝗞 𝗟𝗢𝗚𝗢
+  <a href="http://wa.me/918281440156?text=Can%20you%20help%20bro"><span class="avatar"><img height='55' src="./photo/dlove.png" alt="Error"> </a></span>
+
+
