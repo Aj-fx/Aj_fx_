@@ -38,7 +38,7 @@
 
 5. Now https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro-serv2 copy this url and change Aj-fx with your github username and click go<br>
 
-## 𝗖𝗟𝗜𝗖𝗞 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 𝗟𝗢𝗚𝗢👇
+## ᴄʟɪᴄᴋ ɪɴsᴛᴀɢʀᴀᴍ ʟᴏɢᴏ👇
 
   <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='50' src="./photo/Noorin.png" alt="Error"> </a></span>
   
