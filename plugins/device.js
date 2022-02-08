@@ -1,4 +1,4 @@
-/* Copyright ©  @Farhan_dqz.
+/* Copyright ©  @Farhan_dqz. 
 Licensed under the  GPL-3.0 License;
 you can copy file. but credit must be there!!!
 JulieMwol - Farhan-dqz
