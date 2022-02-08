@@ -7,7 +7,7 @@ const Config = require('../config')
 
 // Inbox Block System
 // This Plugins By Hisham Muhammed 
-const INBO = "INBOX NOT ALLOWED ᴊᴏɪɴ ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴜᴏᴘ https://chat.whatsapp.com/L38gYwSPTBILW3K4kdvMY1"
+const INBO = "INBOX NOT ALLOWED ᴄʟɪᴄᴋ ᴛʜɪs ʟɪɴᴋ ᴊᴏɪɴ ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴜᴏᴘ https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f"
  if (Config.INBO == 'true') {
 Hisham.addCommand({on: 'text', fromMe: false, delownsewcmd: false, onlyPm: true }, (async (message, match) => {
         let regexb1ichu = new RegExp('.')
