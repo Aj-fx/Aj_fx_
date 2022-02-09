@@ -1,7 +1,7 @@
 const WhatsAlexa = require('../events');     
 const {MessageType, GroupSettingChange, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
 const fs = require('fs');
-const Config = require('../config')
+const Config = require('../config') 
 const axios = require('axios')
 const request = require('request');
 const os = require('os');
