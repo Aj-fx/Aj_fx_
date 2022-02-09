@@ -6,7 +6,7 @@ you may not use this file except in compliance with the License.
 WhatsAsena - Yusuf Usta
 */
 
-const config = require('../../config');
+const config = require('../../config'); 
 const { DataTypes } = require('sequelize');
 
 const PluginDB = config.DATABASE.define('Plugin', {
