@@ -9,8 +9,8 @@ Asena.addCommand({pattern: 'group link', fromMe: false, desc: "Gives github link
 
     var skl = await axios.get("https://i.imgur.com/u76xdWZ.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bot Name Kaztroser*
- *ᴋᴀᴢᴛʀᴏsᴇ ʙᴏᴛ: https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ*
+ *ᴋᴀᴢᴛʀᴏsᴇ ʙᴏᴛ ɢʀᴏᴜᴘ ʟɪɴᴋ: https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f*
 `}) 
 
 }));
