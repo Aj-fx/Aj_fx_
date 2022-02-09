@@ -34,9 +34,9 @@
   click to fork the git into your account click this logo
    
 <p align="center">
- <a href="https://github.com/Aj-fx/Kaztro-serv2/fork"><span class="avatar"><img height='100' src="./photo/appu.png" alt="Error"> </a></span>
+ <a href="https://github.com/Aj-fx/Kaztro_ser/fork"><span class="avatar"><img height='100' src="./photo/appu.png" alt="Error"> </a></span>
 
-5. Now https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro-serv2 copy this url and change Aj-fx with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro_ser copy this url and change Aj-fx with your github username and click go<br>
 
 ## ᴄʟɪᴄᴋ ɪɴsᴛᴀɢʀᴀᴍ ʟᴏɢᴏ👇
 
@@ -46,18 +46,18 @@
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Aj-fx/Kaztro-serv2">
+  <a href="httsp://github.com/Aj-fx/Kaztro_ser">
    <p align="center">
-<a href="https://github.com/Aj-fx/Kaztro-serv2/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
+<a href="https://github.com/Aj-fx/Kaztro_ser/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
 <a href="https://github.com/Aj-fx/followers">
   <p align="center">
-<img src="https://img.shields.io/github/repo-size/Aj-fx/Kaztro-serv2?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/Aj-fx/Kaztro_ser?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Aj-fx/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztro-serv2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aj-fx/Kaztro-serv2?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztro-serv2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aj-fx/Kaztro-serv2?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztro-serv2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aj-fx/Kaztro-serv2?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx/Kaztro_ser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aj-fx/Kaztro_ser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx/Kaztro_ser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aj-fx/Kaztro_ser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx/Kaztro_ser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aj-fx/Kaztro_ser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -72,7 +72,7 @@
 ## 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥𝗦
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Kaztro-serv2](https://github.com/Aj-fx.png?size=100)](https://github.com/Aj-fx) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![Amal-sir](https://github.com/Amal-ser.png?size=1000)](https://github.com/Amal-ser) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Kaztro_ser](https://github.com/Aj-fx.png?size=100)](https://github.com/Aj-fx) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![Amal-sir](https://github.com/Amal-ser.png?size=1000)](https://github.com/Amal-ser) 
 ----|----|----|----
 [farhan-dqz](https://github.com/farhan-dqz) | [ᴀᴊғx](https://github.com/Aj-fx) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [AMALSER](https://github.com/Amal-ser) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
