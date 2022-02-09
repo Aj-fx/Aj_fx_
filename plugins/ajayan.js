@@ -17,7 +17,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
  *ᴋᴀᴢᴛʀᴏsᴇ ʙᴏᴛ: https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f*
 
- *github link : https://github.com/Aj-fx/Kaztro-serv2*
+ *github link : https://github.com/Aj-fx/Kaztro_ser*
 
  *ᴀᴊ-ғxꫂ⁩..♡︎*
 `}) 
