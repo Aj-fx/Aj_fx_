@@ -7,7 +7,6 @@ const fs = require('fs');
 const got = require("got");
 const axios = require('axios');
 const setting = require('../config');
-const raganork = require('raganork-bot');
 const Config = require('../config');
 const s = require('../config');
 var v = s.CHANNEL
