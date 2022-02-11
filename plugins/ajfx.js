@@ -16,10 +16,10 @@ WhatsAlexa.addCommand({pattern: 'list', fromMe: whb, dontAddCommandList: true}, 
 // send a buttons message! Kaztroser.
     var plk_say = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-var plk_here = new Date().toLocaleDateString(get_localized_date)
-var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '```'
-
 var time = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
+var plk_here = new Date().toLocaleDateString(get_localized_date)
+var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '```\n```💌 wish :' + time + '```'
+
 
 if (hrs < 12) wish = '*ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ ⛅*'
 if (hrs >= 12 && hrs <= 17) wish = '*ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ 🌞*'
@@ -36,7 +36,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
       ]
       
       const buttonMessage = {
-          contentText: ' ꪶ͢ᴀᴊ ғxꫂ⁩\n\n```BOT NAME:``` *'+Config.LIST+'*\n\n💙 ᴛɪᴍᴇ   : ```' + plk_say + '```\n🥶 ᴅᴀᴛᴇ : ```' + plk_here + '```\n💤wish:` + wish + `\n\n☃️ ᴄʟɪᴄᴋ ᴍᴇɴᴜ ᴀɴᴅ ᴇɴᴊᴏʏ ᴛʜᴇ ʙᴏᴛ\n', 
+          contentText: ' ꪶ͢ᴀᴊ ғxꫂ⁩\n\n```BOT NAME:``` *'+Config.LIST+'*\n\n💙 ᴛɪᴍᴇ   : ```' + plk_say + '```\n🥶 ᴅᴀᴛᴇ : ```' + plk_here + '```\n💤wish:` + time + `\n\n☃️ ᴄʟɪᴄᴋ ᴍᴇɴᴜ ᴀɴᴅ ᴇɴᴊᴏʏ ᴛʜᴇ ʙᴏᴛ\n', 
           footerText: '✮ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ',
           buttons: buttons,
           headerType: 1
