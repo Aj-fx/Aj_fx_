@@ -1,4 +1,3 @@
-Show hidden characters
 const WhatsAlexa = require('../events');   
 const {MessageType, GroupSettingChange, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
 const fs = require('fs');
@@ -36,7 +35,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
       ]
       
       const buttonMessage = {
-          contentText: ' ꪶ͢ᴀᴊ ғxꫂ⁩\n\n```BOT NAME:``` *'+Config.LIST+'*\n\n💙 ᴛɪᴍᴇ   : ```' + plk_say + '```\n🥶 ᴅᴀᴛᴇ : ```' + plk_here + '```\n💌 wish : ```' + wish + '```\\n\n☃️ ᴄʟɪᴄᴋ ᴍᴇɴᴜ ᴀɴᴅ ᴇɴᴊᴏʏ ᴛʜᴇ ʙᴏᴛ\n', 
+          contentText: ' ᴀᴊ ғx⁩\n\n```BOT NAME:``` *'+Config.LIST+'*\n\n💙 ᴛɪᴍᴇ   : ```' + plk_say + '```\n🥶 ᴅᴀᴛᴇ : ```' + plk_here + '```\n💌 wish : ```' + wish + '```\\n\n☃️ ᴄʟɪᴄᴋ ᴍᴇɴᴜ ᴀɴᴅ ᴇɴᴊᴏʏ ᴛʜᴇ ʙᴏᴛ\n', 
           footerText: '✮ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ',
           buttons: buttons,
           headerType: 1
