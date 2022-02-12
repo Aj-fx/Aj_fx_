@@ -20,7 +20,7 @@ var ddd = ggg.toString('utf-8')
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-WhatsAlexa.addCommand({pattern: 'group link', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+WhatsAlexa.addCommand({pattern: 'grouplink', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
 
 // send a buttons message!
 
