@@ -2,7 +2,7 @@
 Re-edit Aj-fx
 */
 
-const Amalser = require('../events');  
+const Kaztroser = require('../events');  
 const {MessageType, GroupSettingChange, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
 const fs = require('fs');
 const Config = require('../config')
@@ -20,7 +20,7 @@ var split = Config.KAZTRO_SER.split('/');
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-Amalser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+Kaztroser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
 // send a buttons message!credit Ajayan
     const buttons = [
         {buttonId: 'id1', buttonText: {displayText: sk1 }, type: 1},
