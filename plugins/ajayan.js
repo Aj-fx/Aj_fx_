@@ -31,8 +31,6 @@ WhatsAlexa.addCommand({pattern: 'git', fromMe: whb, dontAddCommandList: true}, (
         {buttonId: 'id2', buttonText: {displayText: 'ɢɪᴛ ʟɪɴɢ   \n\n\nhttps://github.com/Aj-fx/Kaztro_ser'}, type: 1},
 
         {buttonId: 'id3', buttonText: {displayText: 'ɪɴsᴛᴀɢʀᴀᴍ ʟɪɴɢ    \n\n\nhttps://instagram.com/ajayan_007?utm_medium=copy_link'}, type: 1}
-        
-        {buttonId: 'id4', buttonText: {displayText: 'ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ   \n\n\nhttp://wa.me/918281440156'}, type: 1}
 
       ]
 
