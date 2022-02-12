@@ -1,5 +1,5 @@
-/* Moded by ᴀᴊғx
-reedit by ᴀͥᴊͭᴀᷤʏᴀͫɴͤ
+/* Moded by Insane boy
+reedit by ᴀᴊғx
 
 Contact us :
 
