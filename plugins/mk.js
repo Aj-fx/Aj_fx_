@@ -38,7 +38,7 @@ WhatsAlexa.addCommand({pattern: 'invite', fromMe: whb, dontAddCommandList: true}
 
       const buttonMessage = {
 
-          contentText: "ᴄʟɪᴄᴋ ʙᴏᴛᴛᴜɴ",
+          contentText: "ʙᴜᴛᴛᴏɴ...♡︎",
 
           footerText: 'ᴀͥᴊͭᴀᷤʏᴀͫɴͤ ',
 
