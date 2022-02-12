@@ -1,4 +1,4 @@
-const MyPnky = require('../events');
+const MyPnky = require('../events'); 
 const { MessageType, Mimetype } = require('@adiwajshing/baileys');
 const got = require('got');
 const Config = require('../config');
