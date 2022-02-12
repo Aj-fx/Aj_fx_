@@ -1,24 +1,55 @@
-const Asena = require('../events');
-const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
-const axios = require('axios');
+const WhatsAlexa = require('../events');  
 
-const Language = require('../language');
-const Lang = Language.getString('wallpaper');
+const {MessageType, GroupSettingChange, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
 
-Asena.addCommand({pattern: 'owner', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
+const fs = require('fs');
 
-    var skl = await axios.get("https://i.imgur.com/zMa7aL8.jpeg", { responseType: 'arraybuffer' })
+const Config = require('../config')
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bot owner Aj-fx💞*
+const axios = require('axios')
 
-*Creator number : http://wa.me/918281440156*
+const request = require('request');
 
- *Instagram id: https://instagram.com/_ajayan_007?utm_medium=copy_link*
+const os = require('os');
 
- *ᴋᴀᴢᴛʀᴏsᴇʀ ʙᴏᴛ ɢʀᴏᴜᴘ ʟɪɴᴋ: https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f*
+var clh = { cd: 'L3Jvb3QvV2hhdHNBc2VuYUR1cGxpY2F0ZWQv', pay: '' }    
 
+var ggg = Buffer.from(clh.cd, 'base64')
 
- *ᴀᴊ-ғxꫂ⁩..♡︎*
-`}) 
+var ddd = ggg.toString('utf-8')
+
+let whb = Config.WORKTYPE == 'public' ? false : true
+
+WhatsAlexa.addCommand({pattern: 'owner', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+
+// send a buttons message!
+
+    const buttons = [
+
+        {buttonId: 'id1', buttonText: {displayText: 'ᴋᴀᴢᴛʀᴏsᴇʀ ɢʀᴏᴜᴘ ʟɪɴᴋ  \n\n\nhttps://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f'}, type: 1},
+
+        {buttonId: 'id2', buttonText: {displayText: 'ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ   \n\n\nhttp://wa.me/918281440156'}, type: 1},
+
+        {buttonId: 'id3', buttonText: {displayText: 'ɪɴsᴛᴀɢʀᴀᴍ ɪᴅ    \n\n\nhttps://instagram.com/ajayan_007?utm_medium=copy_link'}, type: 1}
+        
+      ]
+
+      
+
+      const buttonMessage = {
+
+          contentText: "ʙᴜᴛᴛᴏɴ...♡︎",
+
+          footerText: 'ᴀͥᴊͭᴀᷤʏᴀͫɴͤ ',
+
+          buttons: buttons,
+
+          headerType: 1
+
+      }
+
+      
+
+     await message.client.sendMessage(message.jid, buttonMessage, MessageType.buttonsMessage)
 
 }));
