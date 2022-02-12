@@ -38,7 +38,7 @@ WhatsAlexa.addCommand({pattern: 'grouplink', fromMe: whb, dontAddCommandList: tr
 
       const buttonMessage = {
 
-          contentText: "ᴄʟɪᴄᴋ ʙᴏᴛᴛᴜɴ",
+          contentText: "ᴄʟɪᴄᴋ ʙᴜᴛᴛᴏɴ...♡︎",
 
           footerText: 'ᴀͥᴊͭᴀᷤʏᴀͫɴͤ ',
 
