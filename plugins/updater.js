@@ -6,7 +6,7 @@ you may not use this file except in compliance with the License.
 WhatsAsena - Yusuf Usta
 */
 
-const simpleGit = require('simple-git');
+const simpleGit = require('simple-git'); 
 const git = simpleGit();
 const Asena = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
