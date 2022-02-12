@@ -26,9 +26,9 @@ WhatsAlexa.addCommand({pattern: 'invite', fromMe: whb, dontAddCommandList: true}
 
     const buttons = [
 
-        {buttonId: 'id1', buttonText: {displayText: 'ᴋᴀᴢᴛʀᴏsᴇʀ ɢʀᴏᴜᴘ ʟɪɴᴋ  \n\n\nhttps://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f'}, type: 1},
+        {buttonId: 'id1', buttonText: {displayText: 'ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ  \n\n\nhttp://wa.me/918281440156'}, type: 1},
 
-        {buttonId: 'id2', buttonText: {displayText: 'ɢɪᴛ ʟɪɴɢ   \n\n\nhttps://github.com/Aj-fx/Kaztro_ser'}, type: 1},
+        {buttonId: 'id2', buttonText: {displayText: 'ᴋᴀᴢᴛʀᴏsᴇʀ ɢʀᴏᴜᴘ ʟɪɴᴋ   \n\n\nhttps://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f'}, type: 1},
 
         {buttonId: 'id3', buttonText: {displayText: 'ɪɴsᴛᴀɢʀᴀᴍ ʟɪɴɢ    \n\n\nhttps://instagram.com/ajayan_007?utm_medium=copy_link'}, type: 1}
 
