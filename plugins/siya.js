@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('fs') 
 module.exports = async (jdgn, Client, client) =>{
 try {
 			const dataGc = JSON.parse(fs.readFileSync('./lib/json/dataGc.json'))
