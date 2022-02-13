@@ -61,6 +61,12 @@
 </p>
 
 ## 📢 Guide
+ 𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗟𝗢𝗚𝗢 𝗪𝗔𝗧𝗖𝗛 𝗩𝗜𝗗𝗘𝗢
+    <br>
+<br>
+  <a href="https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f"><span class="avatar"><img height='50' src="./Kaztroserv2/yt.png" alt="Error"> </a></span>
+  <div align 
+          
  𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗟𝗢𝗚𝗢 𝗝𝗢𝗜𝗡 𝗚𝗥𝗢𝗨𝗣👇
     <br>
 <br>
