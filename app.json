@@ -130,7 +130,7 @@
             "value": "^[.!;]"
         },
         "CHAT_BOT": {
-            "description": "Turn your account into a chatbot! .amalser on/off",
+            "description": "Turn your account into a chatbot! .kaztroser on/off",
             "required": true,
             "value": "false"
         },
