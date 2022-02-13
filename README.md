@@ -24,7 +24,7 @@
 <a href="https://github.com/signup/"><span class="avatar"><img height='50' src="./photo/aj.png" alt="Error"> </a></span>
  
 2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Aj-fx/Kaztroser?v=1)
+<a href="https://replit.com/@Aj-fx/Kaztroser?v=1"><span class="avatar"><img height='50' src="./photo/qr.png" alt="Error"> </a></span>
   
 3.If You don't have a account in heroku Create a account👇
 <p align="center">
