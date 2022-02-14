@@ -13,14 +13,14 @@ if (Config.BC == 'default') mode = 'ᴅᴇᴠᴇʟᴏᴘᴇʀ : Kaztroser'
 
 else mode = 'ғᴏʀᴡᴀʀᴅᴇᴅ ʙʏ ' + Config.BC
 
-            const Kaztroser = {
+            const ajfx = {
 
                   key: {"fromMe": false,"participant": "0@s.whatsapp.net","remoteJid": "0@s.whatsapp.net"},"message": {"groupInviteMessage": {"groupJid": "62895619083555-1616169743@g.us","inviteCode": "mememteeeekkeke","groupName": "Elsa Mwol", "caption": mode , 'jpegThumbnail': fs.readFileSync('./photo/Kaztroser.png')}}
              
              
             }
 
-Kaztroser.addCommand({pattern: 'Aj ?(.*)', fromMe: true, desc: 'its foraward replied audio'}, (async (message, match) => {   
+Kaztroser.addCommand({pattern: 'aj ?(.*)', fromMe: true, desc: 'its foraward replied audio'}, (async (message, match) => {   
   
     if (message.reply_message === false);
     
