@@ -221,7 +221,7 @@ if (conf.LANG == 'TR') {
 }
 if (conf.LANG == 'EN') {
     fulleva_dsc = 'Turns on AI powered chatbot on to your account!'
-    already_on = 'Amalaer chatbot is already on.'
+    already_on = 'Kaztroser chatbot is already on.'
     already_off = 'Kaztroser chatbot is currently turned off!.'
     succ_on = 'Kaztroser chatbot on! Restarting to make chatbot ✅'
     succ_off = 'Kaztroser chatbot off Restarting to make normal  ❤️'
