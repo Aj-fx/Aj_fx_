@@ -154,7 +154,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold(ᴋᴀᴢᴛʀᴏsᴇʀ ʙᴏᴛ ᴡᴏʀᴋɪɴɢ ' + config.WORKTYPE + ' ɴᴏᴡ'));
+            chalk.green.bold('ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ ᴡᴏʀᴋɪɴɢ ' + config.WORKTYPE + ' ɴᴏᴡ 💞'));
           // thanks to afnanplk
 	    if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
