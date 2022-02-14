@@ -1,5 +1,5 @@
 /* coded by Kaztroser
-*/
+*/ 
 
  const Kaztroser = require('../events');
  const { MessageType, Mimetype } = require('@adiwajshing/baileys');
