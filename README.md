@@ -61,30 +61,19 @@
 </p>
 
 ## 📢 Guide
- 𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗟𝗢𝗚𝗢 𝗪𝗔𝗧𝗖𝗛 𝗩𝗜𝗗𝗘𝗢
-    <br>
+
+## 𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗔𝗟𝗟 𝗟𝗢𝗚𝗢𝗦
 <br>
   <a href="https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f"><span class="avatar"><img height='50' src="./Kaztroserv2/yt.png" alt="Error"> </a></span>
   <div align 
-          
- 𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗟𝗢𝗚𝗢 𝗝𝗢𝗜𝗡 𝗚𝗥𝗢𝗨𝗣👇
-    <br>
-<br>
+<div align="center">
+        
+<br>                
   <a href="https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f"><span class="avatar"><img height='55' src="./photo/group.png" alt="Error"> </a></span>
   <div align="center">
-     
-
-
-## 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥𝗦
-  <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Kaztro_ser](https://github.com/Aj-fx.png?size=100)](https://github.com/Aj-fx) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![Amal-sir](https://github.com/Amal-ser.png?size=1000)](https://github.com/Amal-ser) 
-----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [ᴀᴊғx](https://github.com/Aj-fx) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [AMALSER](https://github.com/Amal-ser) 
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
-  </div>
-
-## 𝗖𝗟𝗜𝗖𝗞 𝗟𝗢𝗚𝗢
+   
+<br>
   <a href="http://wa.me/918281440156?text=Can%20you%20help%20bro"><span class="avatar"><img height='50' src="./photo/dlover.png" alt="Error"> </a></span>
 
 
