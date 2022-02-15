@@ -106,13 +106,9 @@
             "value": "91"
         },
         "TAG_REPLY": {
-            "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
-            "required": false  
-       },
-        "VERIFIED": {
             "description": "Give with number jid",
             "required": true,
-            "value": "0@s.whatsapp.net"     
+            "value": "ᴀᴊғx"     
         },
         "BGM_DURATION": {
             "description": "FUNY BGM DURATION  codded by SAIDALI",
