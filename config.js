@@ -1,6 +1,6 @@
-/* Copyright (C) 2020 Yusuf Usta.       
+/* Copyright (C) 2020 Yusuf Usta.      
 
-WhatsAsena - Yusuf Usta  
+WhatsAsena - Yusuf Usta 
 */
 
 const { Sequelize } = require('sequelize');
@@ -48,7 +48,7 @@ module.exports = {
     STICKERP: process.env.AUTO_STICKER === undefined ? true : convertToBool(process.env.AUTO_STICKER),
     DISSTICKER: process.env.DISABLE_STICKER === undefined ? false : process.env.DISABLE_STICKER,
     BOT: process.env.BOT_NAME === undefined ? '⊢‒‒‒ ⋈ ᴋᴀᴢᴛʀᴏsᴇʀ ⋈ ‒‒‒⊣' : process.env.BOT_NAME,
-    KAZTRO_SER: process.env.ALIVE_BUTTON === undefined ? 'sᴇᴅ/ʜᴀᴘᴘʏ' : process.env.ALIVE_BUTTON,  
+    KAZTRO_SER: process.env.ALIVE_BUTTON === undefined ? 'sᴇᴅ/ʜᴀᴘᴘʏ' : process.env.ALIVE_BUTTON,   
     NOLOG: process.env.NO_LOG === undefined ? 'true' : process.env.NO_LOG,
     THERI_KICK: process.env.THERI_KICK === undefined ? 'false' : process.env.THERI_KICK,
     SONGD: process.env.SONGD === undefined ? 'ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ🎶' : process.env.SONGD,
@@ -75,7 +75,6 @@ module.exports = {
     ALLEMOJI: process.env.CMD_LIST === undefined ? 'siya/💙/🌟/🥀/🐾' : process.env.CMD_LIST,
     WEL_GIF: process.env.WEL_GIF === undefined ? 'https://i.imgur.com/nErXUGj.mp4' : process.env.WEL_GIF,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.imgur.com/Z1jCYGN.mp4' : process.env.GIF_BYE,
-    BC: process.env.BROADCAST_NAME === undefined ? 'ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ' : process.env.BROADCAST_NAME,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     TAGPLK: process.env.TAG_HEADER === undefined ? 'Note this' : process.env.TAG_HEADER,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
