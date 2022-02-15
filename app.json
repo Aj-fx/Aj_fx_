@@ -25,11 +25,6 @@
             "required": true,
             "value": "en"
         },
-        "TAG_REPLY": {
-            "description": "mention bgm type your phone number",
-            "required": true,
-            "value": "918281440156@s.whatsapp.net"
-        },
         "BGM_FILTER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
