@@ -1,4 +1,4 @@
-/* Copyright © 2021 TERROR BOY.
+/* Copyright © 2021 TERROR BOY. 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 WHITE DEVIL ----»»» TERROR BOY
