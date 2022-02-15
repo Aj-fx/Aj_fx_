@@ -32,6 +32,6 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
           headerType: 1
       }
       
-         await message.client.sendMessage(message.jid, buttonMessage, MessageType.buttonsMessage)
+       await message.client.sendMessage(message.jid, buttonMessage, MessageType.buttonsMessage)
 
 }));
