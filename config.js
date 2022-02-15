@@ -1,6 +1,6 @@
 /* Copyright (C) 2020 Yusuf Usta.       
 
-WhatsAsena - Yusuf Usta 
+WhatsAsena - Yusuf Usta  
 */
 
 const { Sequelize } = require('sequelize');
