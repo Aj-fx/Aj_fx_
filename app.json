@@ -106,9 +106,9 @@
             "value": "91"
         },
         "TAG_REPLY": {
-            "description": "Give with number jid",
+            "description": "mention bgm change this number and enter your number",
             "required": true,
-            "value": "ᴀᴊғx"     
+            "value": "918281440156@s.whatsapp.net"     
         },
         "BGM_DURATION": {
             "description": "FUNY BGM DURATION  codded by SAIDALI",
