@@ -64,7 +64,10 @@
 
 ## 𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗔𝗟𝗟 𝗟𝗢𝗚𝗢𝗦
   <a href="https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f"><span class="avatar"><img height='50' src="./Kaztroserv2/yt.png" alt="Error"> </a></span>
+
+
   <a href="https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f"><span class="avatar"><img height='50' src="./photo/group.png" alt="Error"> </a></span>
+
   <a href="http://wa.me/918281440156?text=Can%20you%20help%20bro"><span class="avatar"><img height='50' src="./photo/dlover.png" alt="Error"> </a></span>
   
 
