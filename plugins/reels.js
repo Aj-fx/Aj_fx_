@@ -1,7 +1,7 @@
 /* Copyright © 2021 Farhan.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Farhan Coded - Amalser
+Farhan Coded - Ajfx
 */
 
 const Asena = require('../events');
