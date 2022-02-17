@@ -1,47 +1,16 @@
-
-const Asena = require('../events');
-
-const {MessageType,Mimetype} = require('@adiwajshing/baileys');
-
-const fs = require('fs');
-
-const axios = require('axios');
-
-const FormData = require('form-data');
-
-const ffmpeg = require('fluent-ffmpeg');
-
-const FIND_DESC = "Finds the Song ✨️"
-
-Asena.addCommand({pattern: 'find', fromMe: false, desc: FIND_DESC }, (async (message, match) => {
-
-  if (message.reply_message === false) return await message.client.sendMessage(message.jid, 'replay to a audio!', MessageType.text);
-  var filePath = await message.client.downloadAndSaveMediaMessage({
-      key: {
-          remoteJid: message.reply_message.jid,
-          id: message.reply_message.id
-      },
-      message: message.reply_message.data.quotedMessage
-  });
-  var form = new FormData();
-  ffmpeg(filePath).format('mp3').save('music.mp3').on('end', async () => {
-      form.append('api_token', '2bd1fcb3ccd15607f72cdbb527907ce6');
-      form.append('file', fs.createReadStream('./music.mp3'));
-      form.append('return', 'apple_music, spotify');
-      var configs = {
-          headers: {
-              ...form.getHeaders()
-          }
-      }
-      await axios.post('https://api.audd.io/', form, configs).then(async (response) => {
-          var res = response.data
-          if (res === 'success') {
-              await message.client.sendMessage(message.jid, `Title: ${res.title}\nArtist: ${res.artist}`, MessageType.text);
-          } else {
-              await message.client.sendMessage(message.jid, '*HERE IS HIS NUMBER*\n\n *---> [ https://tinyurl.com/yxu4m432 ]*', MessageType.text, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(message.jid ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg", "caption":'*FIND FEATURE IS BLOCKED BY OWNER PLEASE CONTACT HIM*', "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=", "fileLength": "28777", "height": 1080, "width": 1079, "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=", "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=", "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69", "mediaKeyTimestamp": "1610993486", "jpegThumbnail": fs.readFileSync('./photo/Kaztroser.jpg')}}}}); 
-          }
-      }).catch((error) =>  {
-          console.log(error);
-      });
-  });
-}));
+var e = require('../events')
+var {MessageType,Mimetype} = require('@adiwajshing/baileys')
+const c = require('../config')
+var v = c.SESSION
+var fm = c.WORKTYPE == 'public' ? false : true
+e.addCommand({pattern: 'find ?(.*)', fromMe: fm}, (async (m, match) => {    
+if (!m.reply_message.text && !m.reply_message.video && !m.reply_message.sticker && !m.reply_message.image) {
+var q = await m.client.downloadAndSaveMediaMessage({key: { remoteJid: m.reply_message.jid,id: m.reply_message.id}, message: m.reply_message.data.quotedMessage});
+var k = c.find_key
+var r = await f.query.music(q,k,v)
+if (r.result) {
+let msg =  '_Title:_ *' + r.result.title + '* \n_Album:_ *' + r.result.album+'* \n_Artist:_ *' + r.result.artist+ '* \n_Label:_ *' + r.result.label+'* \n_Release date:_ *' + r.result.release_date + '* \n_Song link:_ ' + 'https://www.youtube.com/results?search_query='+r.result.title.split(' ').join('+')
+return await m.client.sendMessage(m.jid, msg, MessageType.text, {quoted: m.data})}
+if (r.error && r.error.error_code == '900') return await m.client.sendMessage(m.jid, "_API Key expired! Get new api key_", MessageType.text,{quoted: m.data})
+if (!r.result) return await m.client.sendMessage(m.jid, "_Not found!_", MessageType.text,{quoted: m.data})}
+else {return await m.client.sendMessage(m.jid, "_Reply to any music!_", MessageType.text,{quoted: m.data})}}));
