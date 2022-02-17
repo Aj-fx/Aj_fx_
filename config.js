@@ -67,7 +67,7 @@ module.exports = {
     PLK: process.env.OWNER_NAME === undefined ? 'default' : process.env.OWNER_NAME,
     BOTSK: process.env.BOT_NAME === undefined ? 'ᴋᴀᴢᴛʀᴏsᴇʀ' : process.env.BOT_NAME,
     LOGOSK: process.env.ALL_IMG === undefined ? 'https://telegra.ph/file/10b9d1ce0b50ae38fc6df.jpg' : process.env.ALL_IMG,
-    SKDL: process.env.DIALOGUE === undefined ? ,'⚡' : process.env.DIALOGUE,
+    SKDL: process.env.DIALOGUE === undefined ? '❤️‍🔥 Muthe i love you ❤️‍🔥' : process.env.DIALOGUE,
     JID: process.env.VERIFIED === undefined ? '0@s.whatsapp.net' : process.env.VERIFIED,
     SKV: process.env.V_HEADER === undefined ? '*YOUR HEADER HERE*' : process.env.V_HEADER,
     BANMSG: process.env.BAN_MESSAGE === undefined ? 'default' : process.env.BAN_MESSAGE,
