@@ -58,6 +58,7 @@ module.exports = {
     SAID: process.env.BGM_DURATION === undefined ? '39999600' : process.env.BGM_DURATION,
     BLOCKMSG: process.env.BLOCK_MESSAGE === undefined ? 'default' : process.env.BLOCK_MESSAGE,
     UNBLOCKMSG: process.env.UNBLOCK_MESSAGE === undefined ? 'default' : process.env.UNBLOCK_MESSAGE,
+    SED: process.env.SED_CAPTION === undefined ? 'ᴍᴀᴅᴇ ʙʏ ᴋᴀᴢᴛʀᴏsᴇʀ' : process.env.SED_CAPTION,
     UNMUTEMSG: process.env.UNMUTE_MESSAGE === undefined ? 'default' : process.env.UNMUTE_MESSAGE,
     GEAR: process.env.CHANGE_BGM_TO === undefined ? 'one' : process.env.CHANGE_BGM_TO,
     WORKTYPE: process.env.WORK_TYPE === undefined ? 'public' : process.env.WORK_TYPE,
