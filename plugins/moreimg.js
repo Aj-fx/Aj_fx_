@@ -1,4 +1,4 @@
-/* Codded by @ALLanplk - farhandqz
+/* Codded by @ALLanplk - farhandqz 
 */
 
 const Asena = require('../events');
