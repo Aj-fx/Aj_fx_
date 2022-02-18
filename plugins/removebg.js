@@ -15,7 +15,7 @@ const FormData = require('form-data');
 const stream = require('stream');
 const {promisify} = require('util');
 
-const pipeline = promisify(stream.pipeline);
+const pipeline = promisify(stream.pipeline); 
 
 const Language = require('../language');
 const Lang = Language.getString('removebg');
