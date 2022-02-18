@@ -15,7 +15,7 @@ if (Config.WORKTYPE == 'private') {
             await message.client.sendMessage(message.jid,'*Kaztroser by Ajayan*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNER + ', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.OWNER + '\n\npro', MessageType.text);
         }
     }));
 }
@@ -33,7 +33,7 @@ else if (Config.WORKTYPE == 'public') {
             await message.client.sendMessage(message.jid,'*Kaztroser by Ajayan*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNER + ', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.OWNER + '\n\npro', MessageType.text);
         }
     }));
 }
