@@ -65,6 +65,7 @@ module.exports = {
     PROMOTEMSG: process.env.PROMOTE_MESSAGE === undefined ? 'default' : process.env.PROMOTE_MESSAGE,
     DEMOTEMSG: process.env.DEMOTE_MESSAGE === undefined ? 'default' : process.env.DEMOTE_MESSAGE,
     PLK: process.env.OWNER_NAME === undefined ? 'default' : process.env.OWNER_NAME,
+    take_key: process.env.TAKE_KEY === undefined ? '' : process.env.TAKE_KEY,
     BOTSK: process.env.BOT_NAME === undefined ? 'ᴋᴀᴢᴛʀᴏsᴇʀ' : process.env.BOT_NAME,
     LOGOSK: process.env.ALL_IMG === undefined ? 'https://telegra.ph/file/10b9d1ce0b50ae38fc6df.jpg' : process.env.ALL_IMG,
     SKDL: process.env.DIALOGUE === undefined ? '❤️‍🔥 Muthe i love you ❤️‍🔥' : process.env.DIALOGUE,
