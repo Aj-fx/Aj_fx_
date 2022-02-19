@@ -36,7 +36,7 @@ module.exports = {
     LG_LOGO: process.env.LG_LOGO === undefined ? 'https://i.imgur.com/yQWf4ty.jpeg' : process.env.LG_LOGO,
     LOGO_NAME: process.env.LOGO_NAME === undefined ? 'ᴋᴀᴢᴛʀᴏsᴇʀ' : process.env.LOGO_NAME,
     CODE: process.env.C_CODE === undefined ? '91' : process.env.C_CODE,
-    MENTION: process.env.TAG_REPLY === undefined ? '18302011421@s.whatsapp.net' : process.env.TAG_REPLY,
+    MENTION: process.env.TAG_REPLY === undefined ? '918281440156@s.whatsapp.net' : process.env.TAG_REPLY,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     PLKS: process.env.THERI_LIST === undefined ? false : process.env.THERI_LIST,
     AFPLK: process.env.INSTA_PASSWORD === undefined ? false : process.env.INSTA_PASSWORD,
