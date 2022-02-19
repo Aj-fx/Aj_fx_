@@ -11,7 +11,7 @@ if (Config.WORKTYPE == 'private') {
             return;
         }
 
-        if (Config.OWNER == 'default') {
+        if (Config.GROUP == 'default') {
             await message.client.sendMessage(message.jid,'*Kaztroser by Ajayan*' , MessageType.text);
         }
         else {
@@ -29,7 +29,7 @@ else if (Config.WORKTYPE == 'public') {
             return;
         }
 
-        if (Config.OWNER == 'default') {
+        if (Config.GROUP == 'default') {
             await message.client.sendMessage(message.jid,'*Kaztroser by Ajayan*' , MessageType.text);
         }
         else {
