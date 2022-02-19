@@ -10,8 +10,6 @@ const config = require('../config')
 const axios = require('axios')
 const request = require('request');
 const os = require('os');
-const Language = require('../language');
-const Lang = Language.getString('wallpaper');
 var clh = { cd: 'L3Jvb3QvV2hhdHNBc2VuYUR1cGxpY2F0ZWQv', pay: '' }    
 var ggg = Buffer.from(clh.cd, 'base64')
 var ddd = ggg.toString('utf-8')
@@ -19,14 +17,12 @@ var sk1,sk2
 var split = Config.KAZTRO_SER.split('/');
          sk2 = split[1];
          sk1 = split[0];
-    var r_text = new Array ();
-    
-    
-    r_text[0] = "https://i.imgur.com/jDkKLYG.jpeg";
-    
-    
-    var i = Math.floor(1*Math.random())
 
+var a_plk = new Array ();
+
+        a_plk[0] = Config.LG_LOGO
+	 var p = Math.floor(1*Math.random())
+	var plk_alive = await axios.get(`${a_plk[p]}`, { responseType: 'arraybuffer' })
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
@@ -38,12 +34,12 @@ Kaztroser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, 
       ]
       
       const buttonMessage = {
-          contentText: '```'+Config.BOT+'\n\n```'+Config.ALIVEMSG+'\n',
+          contentText: '```'+Config.BOT+'\n\n```'+Config.LG_LOGO+'\n\n```'+Config.ALIVEMSG+'\n',
           footerText: 'ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ',
           buttons: buttons,
           headerType: 1
       }
       
-      await message.client.sendMessage(message.jid, buttonMessage, MessageType.buttonsMessage)
+      await message.client.sendMessage(message.jid, buttonMessage, MessageType.buttonsMessage,MessageType.image, {mimetype: Mimetype.png)
 
 }));
