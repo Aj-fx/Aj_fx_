@@ -44,6 +44,6 @@ Kaztroser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, 
           headerType: 1
       }
       
-      await message.client.sendMessage(message.jid, buttonMessage, MessageType.buttonsMessage,(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption:Ajfx)
+      await message.client.sendMessage(message.jid, buttonMessage, MessageType.buttonsMessage)
 
 }));
