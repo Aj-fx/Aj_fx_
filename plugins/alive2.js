@@ -27,7 +27,6 @@ var split = Config.KAZTRO_SER.split('/');
     
     var i = Math.floor(1*Math.random())
 
-    var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
