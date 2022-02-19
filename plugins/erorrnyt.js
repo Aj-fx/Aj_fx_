@@ -6,7 +6,7 @@ Coded by @KursadHD
 re edited by afnanplk
 */
 
-const MyPnky = require('../events');
+const MyPnky = require('../events'); 
 const {MessageType, Mimetype} = require('@adiwajshing/baileys');
 const memeMaker = require('meme-maker')
 const fs = require('fs')
