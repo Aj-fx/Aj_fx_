@@ -120,7 +120,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if (!!message.mention && message.mention[0] == '918281440156@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./Kaztroser/Hi.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
-const array = ['Sed','Hi']
+const array = ['Sed','Hi','@','Admin myr','Andi','Angane','Beach','Beluga','BJP','Boob','Bot evide','Bota','Bro','Cigarette','Colony','come','Comedy','Convert','Dady','Dance','Delete','Drug','Fire','Frek','fuck','Good night','Gun','Hi','I Love you','Insta','ippo','it's time','Kodukk','minnal','Minute','Mp3','My','Myre','Nanba','Niedha','No','nokkate','Odra','OK FINE','Party','Pee','Podaa','Podi','Pooran','sari','Sed','Selfe','Sent','Sex','Show','Smail','song','Suicide','Suii','Thooran','Uff','Why','wow']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
