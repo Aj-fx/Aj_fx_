@@ -21,18 +21,18 @@
 ## follow 5 step
 1.
 <p align="center">
-<a href="https://github.com/signup/"><span class="avatar"><img height='50' src="./photo/aj.png" alt="Error"> </a></span>
+<a href="https://github.com/signup/"><span class="avatar"><img height='120' src="./photo/Kaztroser-19.png" alt="Error"> </a></span>
  
 2.
-<a href="https://replit.com/@Aj-fx/Kaztroser?v=1"><span class="avatar"><img height='100' src="./photo/Kaztroser-15.png" alt="Error"> </a></span>
+<a href="https://replit.com/@Aj-fx/Kaztroser?v=1"><span class="avatar"><img height='120' src="./photo/Kaztroser-16.png" alt="Error"> </a></span>
   
 3.
 <p align="center">
- <a href="https://signup.heroku.com"><span class="avatar"><img height='50' src="./photo/hh.png" alt="Error"> </a></span>
-  
+ <a href="https://signup.heroku.com"><span class="avatar"><img height='120' src="./photo/Kaztroser-17.png" alt="Error"> </a></span>
+
 4.
 <p align="center">
- <a href="https://github.com/Aj-fx/Kaztroser/fork"><span class="avatar"><img height='100' src="./photo/appu.png" alt="Error"> </a></span>
+ <a href="https://github.com/Aj-fx/Kaztroser/fork"><span class="avatar"><img height='100' src="./photo/Kaztroser-18.png" alt="Error"> </a></span>
 
 5.https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztroser copy this url and change Aj-fx with your github username and go<br>
 
