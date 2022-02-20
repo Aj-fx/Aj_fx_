@@ -18,25 +18,23 @@
 
 ### SIMPLE SETUP
 
-## If there is an error deploying,try the following 5steps
- 1. If you dont have a github account create a account. Click github logo
+## follow 5 step
+1.
 <p align="center">
 <a href="https://github.com/signup/"><span class="avatar"><img height='50' src="./photo/aj.png" alt="Error"> </a></span>
  
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR
+2.
 <a href="https://replit.com/@Aj-fx/Kaztroser?v=1"><span class="avatar"><img height='50' src="./photo/qr.png" alt="Error"> </a></span>
   
-3.If You don't have a account in heroku Create a account👇
+3.
 <p align="center">
  <a href="https://signup.heroku.com"><span class="avatar"><img height='50' src="./photo/hh.png" alt="Error"> </a></span>
-
-4. You will have to fork this git to deploy via Heroku.
-  click to fork the git into your account click this logo
-   
+  
+4.
 <p align="center">
  <a href="https://github.com/Aj-fx/Kaztroser/fork"><span class="avatar"><img height='100' src="./photo/appu.png" alt="Error"> </a></span>
 
-5. Now https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztroser copy this url and change Aj-fx with your github username and click go<br>
+5.https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztroser copy this url and change Aj-fx with your github username and go<br>
 
 ## ᴄʟɪᴄᴋ ɪɴsᴛᴀɢʀᴀᴍ ʟᴏɢᴏ
 
