@@ -5,7 +5,7 @@
 <span class="avatar"><img src="https://github.com/Aj-fx/Kaztro_ser/blob/master/plugins/Ctonfs8p1Jq5.gif"> </a></span>
 </p>
 <p align="center">
-<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-ꪶ͢ᴀᴊ ғxꫂ⁩-cyberchekuthan/Kaztroser?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Ajfx-cyberchekuthan/Kaztroser?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 
