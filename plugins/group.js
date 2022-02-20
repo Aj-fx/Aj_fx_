@@ -12,9 +12,6 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.GROUP == 'default') {
-            await message.client.sendMessage(message.jid,'Config.GROUP' , MessageType.text);
-        }
-        else {
             await message.client.sendMessage(message.jid,Config.GROUP + '\n\n➠', MessageType.text);
         }
     }));
@@ -30,9 +27,6 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.GROUP == 'default') {
-            await message.client.sendMessage(message.jid,'Config.GROUP' , MessageType.text);
-        }
-        else {
             await message.client.sendMessage(message.jid,Config.GROUP + '\n\n➠', MessageType.text);
         }
     }));
