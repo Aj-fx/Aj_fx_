@@ -32,11 +32,11 @@
 
 4.
 <p align="center">
- <a href="https://github.com/Aj-fx/Kaztroser/fork"><span class="avatar"><img height='100' src="./photo/Kaztroser-18.png" alt="Error"> </a></span>
+ <a href="https://github.com/Aj-fx/Kaztroser/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-23.png" alt="Error"> </a></span>
 
 5.
 <p align="center">
- <a href="https://github.com/Aj-fx/Kaztroser/fork"><span class="avatar"><img height='100' src="./photo/Kaztroser-18.png" alt="Error"> </a></span>
+ <a href="https://github.com/Aj-fx/Kaztroser/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-24.png" alt="Error"> </a></span>
 
 6.https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztroser copy this url and change Aj-fx with your github username and go<br>
 
