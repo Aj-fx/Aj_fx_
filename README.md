@@ -40,12 +40,6 @@
 
 6. https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztroser copy this url and change Aj-fx with your github username and go<br>
 
-## ᴄʟɪᴄᴋ ɪɴsᴛᴀɢʀᴀᴍ ʟᴏɢᴏ
-
-  <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='50' src="./photo/Noorin.png" alt="Error"> </a></span>
-  
-
-----
 
   <p align="center">
   <a href="httsp://github.com/Aj-fx/Kaztro_ser">
@@ -71,5 +65,8 @@
   <a href="https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f"><span class="avatar"><img height='50' src="./photo/group.png" alt="Error"> </a></span>
 
   <a href="http://wa.me/918281440156?text=Can%20you%20help%20bro"><span class="avatar"><img height='50' src="./photo/dlover.png" alt="Error"> </a></span>
+
+  <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='50' src="./photo/Noorin.png" alt="Error"> </a></span>
+
   
 
