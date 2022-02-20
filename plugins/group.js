@@ -11,7 +11,7 @@ if (Config.WORKTYPE == 'private') {
             return;
         }
 
-        if (Config.GROUP == 'default') {
+        if (Config.GROUP == 'https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f') {
             await message.client.sendMessage(message.jid,Config.GROUP + '\n\n➠', MessageType.text);
         }
     }));
@@ -26,7 +26,7 @@ else if (Config.WORKTYPE == 'public') {
             return;
         }
 
-        if (Config.GROUP == 'default') {
+        if (Config.GROUP == 'https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f') {
             await message.client.sendMessage(message.jid,Config.GROUP + '\n\n➠', MessageType.text);
         }
     }));
