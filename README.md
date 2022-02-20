@@ -32,7 +32,7 @@
 
 4.
 <p align="center">
- <a href="https://github.com/Aj-fx/Kaztroser/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-23.png" alt="Error"> </a></span>
+ <a href="https://github.com/Aj-fx/Kaztro_ser/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-23.png" alt="Error"> </a></span>
 
 5.
 <p align="center">
