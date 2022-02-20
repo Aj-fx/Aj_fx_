@@ -38,7 +38,7 @@
 <p align="center">
  <a href="https://github.com/Aj-fx/Kaztroser/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-24.png" alt="Error"> </a></span>
 
-6.https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztroser copy this url and change Aj-fx with your github username and go<br>
+6. https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztroser copy this url and change Aj-fx with your github username and go<br>
 
 ## ᴄʟɪᴄᴋ ɪɴsᴛᴀɢʀᴀᴍ ʟᴏɢᴏ
 
