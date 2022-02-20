@@ -36,7 +36,7 @@
 <p align="center">
  <a href="https://github.com/Aj-fx/Kaztro_ser/fork"><span class="avatar"><img height='100' src="./photo/appu.png" alt="Error"> </a></span>
 
-5. Now https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro_ser copy this url and change Aj-fx with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/itsme-ajayan/bot-setting copy this url and change Aj-fx with your github username and click go<br>
 
 ## ᴄʟɪᴄᴋ ɪɴsᴛᴀɢʀᴀᴍ ʟᴏɢᴏ👇
 
