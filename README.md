@@ -59,14 +59,9 @@
 ## 📢 Guide
 
 ## 𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗔𝗟𝗟 𝗟𝗢𝗚𝗢𝗦
-  <a href="https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f"><span class="avatar"><img height='50' src="./Kaztroserv2/yt.png" alt="Error"> </a></span>
 
-
-  <a href="https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f"><span class="avatar"><img height='50' src="./photo/group.png" alt="Error"> </a></span>
-
-  <a href="http://wa.me/918281440156?text=Can%20you%20help%20bro"><span class="avatar"><img height='50' src="./photo/dlover.png" alt="Error"> </a></span>
-
-  <a href="https://instagram.com/ajayan_007?utm_medium=copy_link"><span class="avatar"><img height='50' src="./photo/Noorin.png" alt="Error"> </a></span>
-
-  
+<a href="https://youtu.be/AGk2F4uORtc/" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://instagram.com/_aj_fx._?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://wa.me/918281440156" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f" target="_blank"><img src="https://img.shields.io/badge/kaztroser bot group-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
