@@ -53,7 +53,7 @@
         "DIALOGUE": {
             "description": "set the Dialouge",
             "required": true,
-            "value": "ᴀᴊᴀʏᴀɴ"
+            "value": "Muthe i love you"
         },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
