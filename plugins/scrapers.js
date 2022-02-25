@@ -500,7 +500,7 @@ await message.client.sendMessage(message.jid, {displayname: "ᴀᴊғx", vcard: 
 	    const getID =
         /(?:http(?:s|):\/\/|)(?:(?:www\.|)youtube(?:\-nocookie|)\.com\/(?:watch\?.*(?:|\&)v=|embed|shorts\/|v\/)|youtu\.be\/)([-_0-9A-Za-z]{11})/
         var qq = getID.exec(s1)
-        await message.client.sendMessage(message.jid,Lang.DOWNLOADING_VIDEO,MessageType.text, {quoted : { key: {fromMe: true,participant: "0@s.whatsapp.net",remoteJid: "status@broadcast"},message: {"extendedTextMessage": {"text": config.BOTSK }}}});
+        await message.client.sendMessage(message.jid,Lang.DOWNLOADING_VIDEO,MessageType.text, {quoted : { key: {fromMe: true,participant: "0@s.whatsapp.net",remoteJid: "status@broadcast"},message: {"extendedTextMessage": {"text": config.SED }}}});
      var dl = await get.query.getVideo(qq[1],v)
 var cap = dl.details.title ? dl.details.title : s.AFN
 var th = dl.details.title ? dl.details.thumbnail.url : null
