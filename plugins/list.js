@@ -26,8 +26,8 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
       ]
       
       const buttonMessage = {
-          contentText: ' ᴀᴊғx\n\n```BOT NAME:``` *'+Config.BOT+'*\n\n💙 ᴛɪᴍᴇ   : ```' + plk_say + '```\n🥶 ᴅᴀᴛᴇ : ```' + plk_here + '```\n\n🎀ᴄʟɪᴄᴋ ᴍᴇɴᴜ ᴀɴᴅ ᴇɴᴊᴏʏ ᴛʜᴇ ʙᴏᴛ🎀\n', 
-          footerText: 'ᴀͥᴊͭᴀᷤʏᴀͫɴͤ',
+          contentText: ' 🇬🇧\n\n```BOT NAME:``` *'+Config.BOT+'*\n\n💙 ᴛɪᴍᴇ   : ```' + plk_say + '```\n🥶 ᴅᴀᴛᴇ : ```' + plk_here + '```\n\n🎀ᴄʟɪᴄᴋ ᴍᴇɴᴜ ᴀɴᴅ ᴇɴᴊᴏʏ ᴛʜᴇ ʙᴏᴛ🎀\n', 
+          footerText: 'ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ',
           buttons: buttons,
           headerType: 1
       }
