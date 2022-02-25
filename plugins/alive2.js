@@ -10,6 +10,7 @@ const config = require('../config')
 const axios = require('axios')
 const request = require('request');
 const os = require('os');
+const image = require('../buffer');
 var clh = { cd: 'L3Jvb3QvV2hhdHNBc2VuYUR1cGxpY2F0ZWQv', pay: '' }    
 var ggg = Buffer.from(clh.cd, 'base64')
 var ddd = ggg.toString('utf-8')
@@ -21,7 +22,7 @@ var split = Config.KAZTRO_SER.split('/');
 let whb = Config.WORKTYPE == 'public' ? false : true
 
 Kaztroser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
-var img = await image.query.skbuffer(Config.LG_LOGO)
+var img = await image.query.skbuffer(Config.LOGOSK)
 // send a buttons message!credit Ajayan
     const buttons = [
         {buttonId: 'id1', buttonText: {displayText: sk1 }, type: 1},
