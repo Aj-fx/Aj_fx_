@@ -68,7 +68,7 @@
         "LOGO_NAME": {
             "description": "Set the logo list name",
             "required": true,
-            "value": "Kaztroser"
+            "value": "Miss Helena"
         },
         "ALIVE_BUTTON": {
             "description": "Set the alive message two name",
