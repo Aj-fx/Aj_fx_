@@ -1,4 +1,4 @@
-/* codded by Ajayancr
+/* codded by Ajayan
 reedited by Ajfx
 use this git under copyright
 dont change credit
