@@ -1,4 +1,4 @@
-const fs = require('fs') 
+const fs = require('fs')
 const Asena = require('../events');
 const {MessageType, Mimetype } = require('@adiwajshing/baileys');
 const FilterDb = require('./sql/filters');
@@ -7,7 +7,7 @@ const jid = Config.DISBGM !== false ? Config.DISBGM.split(',') : [];
 const afn = Config.PLKS !== false ? Config.PLKS.split(',') : [];
 const Language = require('../language');
 const Lang = Language.getString('filters');
-
+const image = require('../raganork');
 
 Asena.addCommand({pattern: 'filter ?(.*)', fromMe: true, desc: Lang.FILTER_DESC, dontAddCommandList: true}, (async (message, match) => {
     match = match[1].match(/[\'\"\“](.*?)[\'\"\“]/gsm);
@@ -44,43 +44,8 @@ Asena.addCommand({pattern: 'stop ?(.*)', fromMe: true, desc: Lang.STOP_DESC, don
     }
 }));
     
-if (Config.GEAR == 'one') {  
-    
 Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
-        if(Config.BGMFILTER){
-            var uri = encodeURI(match[1])
-        let banned = jid.find( Jid => Jid === message.jid);
-        if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '918281440156@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
-        }
-        if (!!message.mention && message.mention[0] == Config.MENTION) {
-await message.client.sendMessage(message.jid, fs.readFileSync('uploads/ajayan.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
-        }
-        
-const array = ['Ajayan','aj cutzz','aj fx','Kbfc','blasters','mention','mute','Ajfx','insta','Friends','ajayan','alive','kaztro','Aloo','yt','grouplink','link','ambada','update','Lo','Remove','messi','removebg','avastha','Guys','Srg','img','bad boy','bgm','Hey','Kooi','bot noobe','bot','breakup','bro','business','chat','com','cristiano','gm','gn','ʙᴏʏ ғʀɪᴇɴᴅ','ɢɪʀʟ ғʀɪᴇɴᴅ','good','group','hacker','hello','help','hi','home','indo','kollam','kollamo','kooi','lalettan','line','love me','love','mm','modesh','muthe','myr','nanban','nanbans','neymer','njr','noorin','noorin shereef','of','off','owner','photo','pm','potte','remove','report','ronaldo','school','Hy','bey','Kaztroser','Kunne','Single','seen','sex','singel','spam','sticker','umma','welcome','wine','you','neymar','Adi','Aliya','Aliyo','Alone','Ano','Araa','Area','Arulle','Ayin','Baa','Bad','Bey','Bgmi','Bhasi','Black','Blaze boss','Blind','Block','Bomb','Bot sed','Bot','Breakup','By','Call','Chunks uyir','Chunk','Chunks','Cr7 back','Cr7','Cristiano','Da','Daa','Darshana','Dj','Do','E bull jet','Eda','Editing','Ee','Eee','Ellam poyi','Exam','fans','From','Full','Girl','Good morning','Good night','Ha','Hacker','Hai','Help','Hi','Hii','Hum','Humm','I love you','I','Idd','Indo','Kaliyannam','Kanjavu','Kannan','Kaztro','Kgf','Kill','Kiss','Kozhi','Kundan','Kutta','Kuttu','Line undo','Loo','Love vendada','Love you bot','Love you molu','Love','Mamma','Mine','Mm','Mood of','Mood','Myr','Myre','Nadakko','Nanban uyir','Nanban','Nanbans','Nb','Nee','Neymar','Njan ano','Njan eilla','Njan ind','Njan killadi alle','Njan nannayi','Njan poyi','Njan seen ane','Njan verum','Njr','No g','list','myre','uyire','menu','No','Noorin shereef','Noorin','Of','Name','Ohh','Oii','Ok','On','Onam','Onn','Oo','Op','Ozhivaki','Paavam','Pavam','Pinne','Poda','Podimon','Polayat','Poli','Pova','Power','Powli','Pro','Pubg','Remix','Romantic','Ronaldo','Sara','Sed life','Set','Sex','Singel','Sir','Smile','Sorry','Supper','Thayoli','Theap','Theri','Tq','Umb','Umbi','Uyir','Va','Vaa','Vadaa','Vid','Welcome','Xxx','Free fire','free fire','call','6','Sed','Pm','Messi','Bgm','Aysheri','Hlo','darshana','git','Sad','Christmas','christmas','ban','bye','Aa','Hello']
-array.map( async (a) => {
-let pattern = new RegExp(`\\b${a}\\b`, 'g');
-if(pattern.test(message.message)){
-       await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/' + a + '.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted: message.data, ptt: true})
-}
-});
-    }
-
-    var filtreler = await FilterDb.getFilter(message.jid);
-    if (!filtreler) return; 
-    filtreler.map(
-        async (filter) => {
-            pattern = new RegExp(filter.dataValues.regex ? filter.dataValues.pattern : ('\\b(' + filter.dataValues.pattern + ')\\b'), 'gm');
-            if (pattern.test(message.message)) {
-                await message.client.sendMessage(message.jid,filter.dataValues.text, MessageType.text, {quoted: message.data});
-            }
-        }
-    );
-}));
-}
-    if (Config.GEAR == 'two') {    
-    Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {   
+        var img = await image.skbuffer(Config.LOGOSK)   
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
@@ -88,15 +53,14 @@ if(pattern.test(message.message)){
 await message.client.sendMessage(message.jid, fs.readFileSync('./Kaztroserv2/Hi.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.MENTION) {
-await message.client.sendMessage(message.jid, fs.readFileSync('Kaztroserv2/owner.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
+await message.client.sendMessage(message.jid, fs.readFileSync('./Kaztroserv2/owner.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
         var uri = encodeURI(match[1])
 const array = ['Sed','Hi','2','6','alive','Bot','Cr7','Da','Daa','Football','gif','git','group','Ha','Haa','Hello','help','Hm','Ho','invite','kooi','list','Love','Mm','Oo','owner','pm','Poda','Song','sticker','Video','love','bot','Hai','Hlo','Ok','Ajfx','ajfx','Ajayan','ajayan','Hey','update now']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
-       await message.client.sendMessage(message.jid, fs.readFileSync('./Kaztroserv2/' + a + '.mp3'), MessageType.audio,{ mimetype: Mimetype.mp4Audio,duration: Config.SAID, ptt: true,quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(message.jid ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg", "caption": Config.BOT + '\n', "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=", "fileLength": "28777", "height": 1080, "width": 1079, "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=", "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=", "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69", "mediaKeyTimestamp": "1610993486", "jpegThumbnail": fs.readFileSync('./photo/Kaztroser.jpg')}}}});
-
+       await message.client.sendMessage(message.jid, fs.readFileSync('./Kaztroserv2/' + a + '.mp3'), MessageType.audio,{ mimetype: Mimetype.mp4Audio,duration: Config.SAID, ptt: true,quoted: message.data});
 }
 });
     }
@@ -112,7 +76,7 @@ if(pattern.test(message.message)){
         }
     );
 }));
-}
+
 Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if(Config.STICKERP){
     let banned = jid.find( Jid => Jid === message.jid);
