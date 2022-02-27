@@ -7,7 +7,7 @@ const jid = Config.DISBGM !== false ? Config.DISBGM.split(',') : [];
 const afn = Config.PLKS !== false ? Config.PLKS.split(',') : [];
 const Language = require('../language');
 const Lang = Language.getString('filters');
-const image = require('../raganork');
+const image = require('../buffer');
 
 Asena.addCommand({pattern: 'filter ?(.*)', fromMe: true, desc: Lang.FILTER_DESC, dontAddCommandList: true}, (async (message, match) => {
     match = match[1].match(/[\'\"\“](.*?)[\'\"\“]/gsm);
@@ -45,7 +45,7 @@ Asena.addCommand({pattern: 'stop ?(.*)', fromMe: true, desc: Lang.STOP_DESC, don
 }));
     
 Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
-        var img = await image.skbuffer(Config.LOGOSK)   
+        var img = image.skbuffer(Config.LOGOSK)   
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
