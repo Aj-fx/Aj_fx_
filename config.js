@@ -34,7 +34,7 @@ module.exports = {
     PHONE: process.env.NUMBER === undefined ? '+918281440156' : process.env.NUMBER,   
     OA_NAME: process.env.DEPLOYER === undefined ? 'ᴀᴊғx' : process.env.DEPLOYER,
     ALL: process.env.ALL_CAPTION === undefined ? '*ᴍᴀᴅᴇ ʙʏ ᴋᴀᴢᴛʀᴏsᴇʀ*' : process.env.ALL_CAPTION,
-    LG_LOGO: process.env.LG_LOGO === undefined ? 'https://te.legra.ph/file/a9e518393144caf1ac505.jpg' : process.env.LG_LOGO,
+    LG_LOGO: process.env.LG_LOGO === undefined ? 'https://i.imgur.com/KUaX2XT.jpeg' : process.env.LG_LOGO,
     LOGO_NAME: process.env.LOGO_NAME === undefined ? 'ᴋᴀᴢᴛʀᴏsᴇʀ' : process.env.LOGO_NAME,
     CODE: process.env.C_CODE === undefined ? '91' : process.env.C_CODE,
     MENTION: process.env.TAG_REPLY === undefined ? '918281440156@s.whatsapp.net' : process.env.TAG_REPLY,
