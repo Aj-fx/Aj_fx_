@@ -5,6 +5,6 @@ const Config = require('../config');
 let sk = Config.WORKTYPE == 'public' ? false : true
 skl.addCommand({pattern: 'url ?(.*)', fromMe: sk}, async (message, match) => {
 
-    await message.sendMessage('Error:\n\n unavailable 🔌')
+    await message.sendMessage('Error 🔌')
 
         });
