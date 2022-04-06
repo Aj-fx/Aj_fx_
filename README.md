@@ -24,7 +24,7 @@
 <a href="https://github.com/signup/"><span class="avatar"><img height='120' src="./photo/Kaztroser-19.png" alt="Error"> </a></span>
  
 2.
-<a href="https://replit.com/@oggymon/Kaztroser?v=1"><span class="avatar"><img height='120' src="./photo/Kaztroser-16.png" alt="Error"> </a></span>
+<a href="https://replit.com/@aj-fx/Kaztroser?v=1"><span class="avatar"><img height='120' src="./photo/Kaztroser-16.png" alt="Error"> </a></span>
   
 3.
 <p align="center">
