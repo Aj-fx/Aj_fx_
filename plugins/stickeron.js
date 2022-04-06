@@ -19,7 +19,7 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
     if (config.LANG == 'EN') {
         l_dsc = 'turn on and turn off bgm. -bot owner command'
         Y_dsc = 'turn on and turn off bgm. -bot owner command'
-        BGM_on = 'bgm option turned on!'
+        BGM_on = 'bgm on 😌💙aakittund!'
         BGM_off = 'bgm option turned off'
         STICKER_on = 'STICKER option turned on!'
         STICKER_off = 'STICKER option turned off'
