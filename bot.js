@@ -278,8 +278,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG === 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~ ᴋᴀᴢᴛʀᴏsᴇʀ ~______~*' +
-                                    '\n*🌀 Follow this page other wise chance to get erorr: https://instagram.com/_aj_fx._?utm_medium=copy_link*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ ᴏɢɢʏsᴇʀ ~______~*' +
+                                    '\n*🌀 Follow this page other wise chance to get erorr: https://instagram.com/_o._.g._.g._.y._?utm_medium=copy_link*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
