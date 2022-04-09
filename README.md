@@ -1,10 +1,10 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+𝙺𝚊𝚣𝚝𝚛𝚘𝚜𝚎𝚛+WA+Bot+repo;Created+by+Aj+fx;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+Kaztroser+v2+WA+Bot+repo;Created+by+Aj+fx;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
  
   <p align="center">
-<span class="avatar"><img height='320' src="https://i.imgur.com/KUaX2XT.jpeg"> </a></span> 
+<span class="avatar"><img height='320' src="https://i.imgur.com/3Aiq6WO.jpeg"> </a></span> 
 </p>
   <p align="center">
-<a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Owner-𝗔𝗝𝗙𝗫-Ajfx/Kaztroserv2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Author-𝗔𝗝𝗙𝗫-Ajfxv1/Ajfx?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
 ᴘʀᴏᴊᴇᴄᴛ ᴍᴏᴅɪғɪᴇᴅ ʙʏ<a href="https://github.com/cyberchekuthan">ᴀͥᴊͭᴀᷤʏᴀͫɴͤ</a>
@@ -19,23 +19,15 @@
 ### SIMPLE SETUP
 
 ## follow 5 step
-1.
-<p align="center">
-<a href="https://github.com/signup/"><span class="avatar"><img height='120' src="./photo/Kaztroser-19.png" alt="Error"> </a></span>
- 
-2.
-<a href="https://replit.com/@Aj-fx/Kaztroser?v=1"><span class="avatar"><img height='120' src="./photo/Kaztroser-16.png" alt="Error"> </a></span>
-  
-3.
-<p align="center">
- <a href="https://signup.heroku.com"><span class="avatar"><img height='120' src="./photo/Kaztroser-17.png" alt="Error"> </a></span>
+## 1 <a href="https://github.com/signup/" target="_blank"><img src="https://img.shields.io/badge/GitHub............-%231877F2.svg?&style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a> 
 
-4.
-<p align="center">
- <a href="https://github.com/Aj-fx/Kaztro_ser/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-23.png" alt="Error"> </a></span>
+## 2 <a href="https://replit.com/@Aj-fx/KAZTROSER-QR?v=1" target="_blank"><img src="https://img.shields.io/badge/Kaztroser-Qrcode-%808080.svg?&style=flat-square&logo=Qr&logoColor=white" alt="Qrcode"></a>
 
-5. https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro_ser copy this url and change Aj-fx with your github username and go<br>
+## 3 <a href="https://signup.heroku.com" target="_blank"><img src="https://img.shields.io/badge/Heroku...........-%23E4405F.svg?&style=flat-square&logo=Heroku&logoColor=white" alt="Heroku"></a>
 
+## 4 <a href="https://github.com/Aj-fx/Kaztro_ser /fork" target="_blank"><img src="https://img.shields.io/badge/Fork-Kaztroser...-%808080.svg?&style=flat-square&logo=GitHub &logoColor=white" alt="GitHub"></a>
+
+## 5 https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro_ser  copy this url and change Aj-fx with your github username and go<br>
 
   <p align="center">
   <a href="httsp://github.com/Aj-fx/Kaztro_ser">
