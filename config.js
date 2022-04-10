@@ -77,6 +77,7 @@ module.exports = {
     ALLEMOJI: process.env.CMD_LIST === undefined ? 'siya/💙/🌟/🥀/🐾' : process.env.CMD_LIST,
     WEL_GIF: process.env.WEL_GIF === undefined ? 'https://i.imgur.com/nErXUGj.mp4' : process.env.WEL_GIF,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.imgur.com/Z1jCYGN.mp4' : process.env.GIF_BYE,
+    BC: process.env.AUDIO_CAPTION === undefined ? 'ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴋᴀᴢᴛʀᴏsᴇʀ࿐⁩' : process.env.AUDIO_CAPTION,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     TAGPLK: process.env.TAG_HEADER === undefined ? 'Note this' : process.env.TAG_HEADER,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
