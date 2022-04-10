@@ -1,6 +1,6 @@
 /*Codded by @phaticusthiccy
 recodded by afnan plk
-kaztroser  V2 
+kaztroser 
 
 */
 
