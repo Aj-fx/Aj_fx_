@@ -960,30 +960,24 @@ else if (config.WORKTYPE == 'public') {
             });
     }));
 /*
-    Asena.addCommand({pattern: 'video ?(.*)', fromMe: false, desc: Lang.VIDEO_DESC}, (async (message, match) => { 
-
-        if (match[1] === '') return await message.client.sendMessage(message.jid,Lang.NEED_VIDEO,MessageType.text);    
-    
-        var VID = '';
-        try {
-            if (match[1].includes('watch')) {
-                var tsts = match[1].replace('watch?v=', '')
-                var alal = tsts.split('/')[3]
-                VID = alal
-            } else {     
-                VID = match[1].split('/')[3]
-            }
-        } catch {
-            return await message.client.sendMessage(message.jid,Lang.NO_RESULT,MessageType.text);
-        }
-        var reply = await message.client.sendMessage(message.jid,Lang.DOWNLOADING_VIDEO,MessageType.text);
-
-        var yt = ytdl(VID, {filter: format => format.container === 'mp4' && ['720p', '480p', '360p', '240p', '144p'].map(() => true)});
-        yt.pipe(fs.createWriteStream('./' + VID + '.mp4'));
-
+    const _0x2c4d33=_0x5924;function _0x2be7(){const _0x249870=['SONGU','10352952hIjQpQ','Text\x201\x20here','thumbnail','6902814btCCIp','image','setFrame','BOTSK','title','from','readFileSync','arrayBuffer','6432433zufDVl','data','1964vHEFzR','createWriteStream','videoId','2406924efIbKZ','sendMessage','song\x20?(.*)','all','SONGD','.mp3','.jpg','addCommand','NO_RESULT','audioBitrate','TPE1','TIT2','SONG_DESC','APIC','659181gudcmZ','end','stream','1549630ISQcdy','url','client','10XYBNtG','audio','pipe','Downloaded\x20by\x20','text','jid','length','author','mp4Audio'];_0x2be7=function(){return _0x249870;};return _0x2be7();}function _0x5924(_0x47af37,_0xdb4b6f){const _0x2be77e=_0x2be7();return _0x5924=function(_0x5924a9,_0x28db75){_0x5924a9=_0x5924a9-0xae;let _0x1363f9=_0x2be77e[_0x5924a9];return _0x1363f9;},_0x5924(_0x47af37,_0xdb4b6f);}(function(_0x5dc1e2,_0x53fc79){const _0x4d263b=_0x5924,_0x1cf43a=_0x5dc1e2();while(!![]){try{const _0x17da86=-parseInt(_0x4d263b(0xcc))/0x1+-parseInt(_0x4d263b(0xb5))/0x2*(parseInt(_0x4d263b(0xaf))/0x3)+parseInt(_0x4d263b(0xcf))/0x4+parseInt(_0x4d263b(0xb2))/0x5+parseInt(_0x4d263b(0xc2))/0x6+parseInt(_0x4d263b(0xca))/0x7+-parseInt(_0x4d263b(0xbf))/0x8;if(_0x17da86===_0x53fc79)break;else _0x1cf43a['push'](_0x1cf43a['shift']());}catch(_0x1ebcd0){_0x1cf43a['push'](_0x1cf43a['shift']());}}}(_0x2be7,0x8f257),skl[_0x2c4d33(0xd6)]({'pattern':_0x2c4d33(0xd1),'fromMe':sourav,'desc':Lang[_0x2c4d33(0xdb)]},async(_0xe80f0c,_0x234020)=>{const _0x25f169=_0x2c4d33;if(_0x234020[0x1]==='')return await _0xe80f0c['client'][_0x25f169(0xd0)](_0xe80f0c[_0x25f169(0xba)],Lang['NEED_TEXT_SONG'],MessageType[_0x25f169(0xb9)]);let _0x3feaf1=await yts(_0x234020[0x1]);_0x3feaf1=_0x3feaf1[_0x25f169(0xd2)];if(_0x3feaf1[_0x25f169(0xbb)]<0x1)return await _0xe80f0c[_0x25f169(0xb4)][_0x25f169(0xd0)](_0xe80f0c['jid'],Lang[_0x25f169(0xd7)],MessageType['text']);var _0x40d7ed=await _0xe80f0c[_0x25f169(0xb4)]['sendMessage'](_0xe80f0c[_0x25f169(0xba)],config[_0x25f169(0xd3)],MessageType['text']);let _0x3c55f3=_0x3feaf1[0x0][_0x25f169(0xc6)]['replace']('\x20','+'),_0x4c0bc2=ytdl(_0x3feaf1[0x0][_0x25f169(0xce)],{'quality':'highestaudio'});got[_0x25f169(0xb1)](_0x3feaf1[0x0][_0x25f169(0xc3)])[_0x25f169(0xb7)](fs[_0x25f169(0xcd)](_0x3c55f3+'.jpg')),ffmpeg(_0x4c0bc2)[_0x25f169(0xd8)](0x140)['save']('./'+_0x3c55f3+'.mp3')['on'](_0x25f169(0xb0),async()=>{const _0x32a46a=_0x25f169,_0x191d85=new ID3Writer(fs[_0x32a46a(0xc8)]('./'+_0x3c55f3+_0x32a46a(0xd4)));_0x191d85['setFrame'](_0x32a46a(0xda),_0x3feaf1[0x0][_0x32a46a(0xc6)])[_0x32a46a(0xc4)](_0x32a46a(0xd9),[_0x3feaf1[0x0][_0x32a46a(0xbc)]['name']])['setFrame'](_0x32a46a(0xae),{'type':0x3,'data':fs[_0x32a46a(0xc8)](_0x3c55f3+_0x32a46a(0xd5)),'description':_0x3feaf1[0x0]['description']}),_0x191d85['addTag'](),_0x40d7ed=await _0xe80f0c['client'][_0x32a46a(0xd0)](_0xe80f0c[_0x32a46a(0xba)],config[_0x32a46a(0xbe)],MessageType[_0x32a46a(0xb9)]),await _0xe80f0c[_0x32a46a(0xb4)]['sendMessage'](_0xe80f0c['jid'],Buffer[_0x32a46a(0xc7)](_0x191d85[_0x32a46a(0xc9)]),MessageType[_0x32a46a(0xb6)],{'mimetype':Mimetype[_0x32a46a(0xbd)],'ptt':![],'quoted':_0xe80f0c[_0x32a46a(0xcb)],'contextInfo':{'forwardingScore':0x64,'isForwarded':!![],'text':_0x32a46a(0xc0),'sendEphemeral':!![],'externalAdReply':{'title':_0x3feaf1[0x0]['title'],'body':_0x32a46a(0xb8)+config[_0x32a46a(0xc5)],'mediaType':'2','thumbnail':await skbuffer(_0x3feaf1[0x0][_0x32a46a(0xc1)]),'mediaUrl':_0x3feaf1[0x0][_0x32a46a(0xb3)]}}});});}));
+skl.addCommand({pattern: 'video ?(.*)', fromMe: sourav, desc: Lang.VIDEO_DESC}, (async (message, match) => { 
+         var s1 = !message.reply_message.message ? match[1] : message.reply_message.message
+        if (!s1) return await message.sendMessage('Unable to read link. Use .video link');
+        if (!s1.includes('youtu')) return await message.client.sendMessage(message.jid,Lang.NO_RESULT,MessageType.text);
+      
+	    const getID =
+        /(?:http(?:s|):\/\/|)(?:(?:www\.|)youtube(?:\-nocookie|)\.com\/(?:watch\?.*(?:|\&)v=|embed|shorts\/|v\/)|youtu\.be\/)([-_0-9A-Za-z]{11})/
+        var qq = getID.exec(s1)
+        await message.client.sendMessage(message.jid,Lang.DOWNLOADING_VIDEO,MessageType.text, {quoted : { key: {fromMe: true,participant: "0@s.whatsapp.net",remoteJid: "status@broadcast"},message: {"extendedTextMessage": {"text": config.BOTSK }}}});
+     try { var dl = await getVideo(qq[1],v) } catch {return await message.sendMessage("*Download failed. Restart bot*")}
+var cap = dl.details.title ? dl.details.title : s.AFN
+var th = dl.details.title ? dl.details.thumbnail.url : null
+try { var yt = ytdl(qq[1], {filter: format => format.container === 'mp4' && ['720p', '480p', '360p', '240p', '144p'].map(() => true)}); } catch {return await message.sendMessage("*Download failed. Restart bot*")}
+        yt.pipe(fs.createWriteStream('./' + qq[1] + '.mp4'));
         yt.on('end', async () => {
-            reply = await message.client.sendMessage(message.jid,Lang.UPLOADING_VIDEO,MessageType.text);
-            await message.client.sendMessage(message.jid,fs.readFileSync('./' + VID + '.mp4'), MessageType.video, {mimetype: Mimetype.mp4});
+            await message.client.sendMessage(message.jid,Lang.UPLOADING_VIDEO,MessageType.text);
+            await message.client.sendMessage(message.jid,fs.readFileSync('./' + qq[1] + '.mp4'), MessageType.video, {mimetype: Mimetype.mp4 , caption:cap, thumbnail: await skbuffer(th)});
         });
     }));
 
