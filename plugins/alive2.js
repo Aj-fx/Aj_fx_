@@ -36,6 +36,8 @@ Kaztroser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, 
       
       await message.client.sendMessage(message.jid, buttonMessage, MessageType.buttonsMessage)
 
+}));
+
 let whb = Config.WORKTYPE == 'private' ? false : true
 
 Kaztroser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
