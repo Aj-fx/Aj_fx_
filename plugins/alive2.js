@@ -37,24 +37,3 @@ Kaztroser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, 
       await message.client.sendMessage(message.jid, buttonMessage, MessageType.buttonsMessage)
 
 }));
-
-let whb = Config.WORKTYPE == 'private' ? false : true
-
-Kaztroser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
-// send a buttons message!credit Ajayan
-    const buttons = [
-        {buttonId: 'id1', buttonText: {displayText: sk1 }, type: 1},
-        {buttonId: 'id2', buttonText: {displayText: sk2 }, type: 1}
-      ]
-      
-      const buttonMessage = {
-          contentText: '```'+Config.BOT+'\n\n```'+Config.ALIVEMSG+'\n',
-          footerText: 'ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ',
-          buttons: buttons,
-          headerType: 1
-      }
-      
-      await message.client.sendMessage(message.jid, buttonMessage, MessageType.buttonsMessage)
-
-}));
-
