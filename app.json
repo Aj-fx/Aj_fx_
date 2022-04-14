@@ -22,8 +22,9 @@
             "required": false
         },
          "INSTA_PASSWORD": {
-            "description": "enter the password,password ajfx  .",
-            "required": true
+            "description": "Don't change this password",
+            "required": true,
+            "value": "ajfx"
         },
         "LANGUAGE": {
             "description": "Bot language.English => en",
