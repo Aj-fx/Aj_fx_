@@ -21,7 +21,7 @@
 ## follow 5 step
 ## 1 <a href="https://github.com/signup/" target="_blank"><img src="https://img.shields.io/badge/GitHub............-%231877F2.svg?&style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a> 
 
-## 2 <a href="https://replit.com/@oggymon/KAZTROSER-QR?v=1" target="_blank"><img src="https://img.shields.io/badge/Kaztroser-Qrcode-%808080.svg?&style=flat-square&logo=Qr&logoColor=white" alt="Qrcode"></a>
+## 2 <a href="https://replit.com/@Aj-fx/KAZTROSER-QR?v=1" target="_blank"><img src="https://img.shields.io/badge/Kaztroser-Qrcode-%808080.svg?&style=flat-square&logo=Qr&logoColor=white" alt="Qrcode"></a>
 
 ## 3 <a href="https://signup.heroku.com" target="_blank"><img src="https://img.shields.io/badge/Heroku...........-%23E4405F.svg?&style=flat-square&logo=Heroku&logoColor=white" alt="Heroku"></a>
 
