@@ -1,13 +1,12 @@
-/* Copyright (C)2020 Yusuf Usta. 
+/* Copyright (C) 2020 Yusuf Usta.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 WhatsAsena - Yusuf Usta
 */
 
-const fs = require("fs"); 
+const fs = require("fs");
 const path = require("path");
 const events = require("./events");
-const raganork = require("./raganork");
 const chalk = require('chalk');
 const config = require('./config');
 const simpleGit = require('simple-git');
@@ -30,7 +29,7 @@ const WhatsAsenaDB = config.DATABASE.define('WhatsAsena', {
     },
     value: {
         type: DataTypes.TEXT,
-        allowNull: false 
+        allowNull: false
     }
 });
 
@@ -74,7 +73,7 @@ async function whatsAsena () {
     
     
     const conn = new WAConnection();
-    conn.version = [3,2147,14];
+    conn.version = [3,3234,9];
     const Session = new StringSession();
 
     conn.logger.level = config.DEBUG ? 'debug' : 'warn';
@@ -114,13 +113,13 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.blueBright.italic('Confirming password...')
         );
-        if (config.AFPLK == 'kaztroser' || config.AFPLK == 'ajfx' || config.AFPLK == 'vava' || config.AFPLK == 'Kaztroser') {
+        if (config.AFPLK == 'JACKZ' || config.AFPLK == 'jackz' || config.AFPLK == 'Jackz' || config.AFPLK == 'pinky') {
         //thanks to afnanplk
         console.log(
-            chalk.green.bold('thanks for watching -key cofirmed-')
+            chalk.green.bold('thanks for using ANGELINA -key cofirmed-')
         );
          }
-         else if (config.AFPLK !== 'kaztroser' || config.AFPLK !== 'ajfx' || config.AFPLK !== 'vava' || config.AFPLK !== 'Kaztroser') {
+         else if (config.AFPLK !== 'JACKZ' || config.AFPLK !== 'jackz' || config.AFPLK !== 'Jackz' || config.AFPLK !== 'pinky') {
          console.log(
             chalk.red.bold('make sure you have typed the correct password'));
          throw new Error("Password Error ⚠⚠ ");         
@@ -149,14 +148,13 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
 
         fs.readdirSync('./plugins').forEach(plugin => {
             if(path.extname(plugin).toLowerCase() == '.js') {
-                require('./plugins/' + plugin);
+                        require('./plugins/' + plugin);
             }
         });
 
         console.log(
-            chalk.green.bold('ᴋᴀᴢᴛʀᴏsᴇʀ ᴡᴏʀᴋɪɴɢ ' + config.WORKTYPE + ' ɴᴏᴡ 💞'));
-          // thanks to afnanplk
-	    if (config.LANG == 'EN' || config.LANG == 'ML') {
+            chalk.green.bold('ANGELINA is Working ' + config.WORKTYPE + ' 𝚗𝚘𝚠 🍃'));
+          if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
                 if (commits.total === 0) {
@@ -165,34 +163,62 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     var degisiklikler = Lang.NEW_UPDATE;
                     commits['all'].map(
                         (commit) => {
-                            degisiklikler += '🔸 [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' <' + commit.author_name + '>\n';
+                            degisiklikler += '💖 [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' <' + commit.author_name + '>\n';
                         }
                     );
                     await conn.sendMessage(
                         conn.user.jid,
-                        '```type``` *.update now* ```to update```\n\n```wait..wait..\n\n ask support group before updating' + degisiklikler + '```', MessageType.text
+                        '*HEY BRO AN UPDATE AVAILABLE FOR ANGELINA*' + degisiklikler + '```', MessageType.text
                     ); 
                 } 
           }
-    });
+    });//thanx afnanplk
     setInterval(async () => { 
-	var getGMTh = new Date().getHours()
+        var getGMTh = new Date().getHours()
         var getGMTm = new Date().getMinutes()
-        var ansk = 'https://gist.github.com/Aj-fx/c71d61990ff1a3b4bf0e58dba2d59824/raw'
-	    while (getGMTh == 7 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS KAZTROSER ]*\n\n' + announce});
-        }       while (getGMTh == 9 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS KAZTROSER ]*\n\n' + announce});
-        }	while (getGMTh == 13 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS KAZTROSER ]*\n\n' + announce});
-        }	while (getGMTh == 17 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS KAZTROSER ]*\n\n' + announce});
-        }       while (getGMTh == 21 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS KAZTROSER ]*\n\n' + announce});
-        }       while (getGMTh == 22 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS KAZTROSER ]*\n\n' + announce});
+        var ansk = 'https://raw.githubusercontent.com/Jackz-ser/Broken-Angelina/master/daily'
+         
+        while (getGMTh == 9 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+               //Thanks to souravkl11         
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
         }
-    }, 50000);
+		while (getGMTh == 13 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+                        
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
+        }
+		while (getGMTh == 17 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+                  
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
+        } 
+		while (getGMTh == 21 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+                      
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
+        }
+    }, 50000);//Thanks to souravkl11 
 
     conn.on('chat-update', async m => {
         if (!m.hasNewMessage) return;
@@ -204,7 +230,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             await conn.updatePresence(msg.key.remoteJid, Presence.unavailable);
         }
 
-      if (msg.messageStubType === 32 || msg.messageStubType === 28) {
+    
+        if (msg.messageStubType === 32 || msg.messageStubType === 28) {
         var plk_say = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
         const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
         var plk_here = new Date().toLocaleDateString(get_localized_date)
@@ -249,21 +276,11 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 await conn.sendMessage(msg.key.remoteJid, Buffer.from(plkpinky.data), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message.replace('{gif}', '').replace('{time}', afn_plk_).replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{owner}', conn.user.name) });
             } else {
                 var pinkjson = await conn.groupMetadata(msg.key.remoteJid)
-                   await conn.sendMessage(msg.key.remoteJid,gb.message.replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{time}', afn_plk_).replace('{owner}', conn.user.name), MessageType.text);
+                   await conn.sendMessage(msg.key.remoteJid,gb.message.replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{mention}', pinkjson.jid).replace('{time}', afn_plk_).replace('{owner}', conn.user.name), MessageType.text);
             }
           }         
-            return;
-         }
-
-
-	    if (config.BLOCKCHAT !== false) {     
-        var abc = config.BLOCKCHAT.split(',');                            
-        if(msg.key.remoteJid.includes('g.us') ? abc.includes(msg.key.remoteJid.split('@')[0]) : abc.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
+            return;                               
     }
-    if (config.SUPPORT == '919074309534-1632403322') {     
-        var sup = config.SUPPORT.split(',');                            
-        if(msg.key.remoteJid.includes('g.us') ? sup.includes(msg.key.remoteJid.split('@')[0]) : sup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
-    }         
 
         events.commands.map(
             async (command) =>  {
@@ -296,8 +313,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         (msg.participant && config.SUDO.includes(',') ? config.SUDO.split(',').includes(msg.participant.split('@')[0]) : msg.participant.split('@')[0] == config.SUDO || config.SUDO.includes(',') ? config.SUDO.split(',').includes(msg.key.remoteJid.split('@')[0]) : msg.key.remoteJid.split('@')[0] == config.SUDO)
                     ) || command.fromMe === msg.key.fromMe || (command.fromMe === false && !msg.key.fromMe)) {
                         if (command.onlyPinned && chat.pin === undefined) return;
-                        if (!command.onlyPm === chat.jid.includes('g.us')) sendMsg = true;
-                        else if (command.onlyGroup === chat.jid.includes('g.us')) sendMsg = true;
+                        if (!command.onlyPm === chat.jid.includes('-')) sendMsg = true;
+                        else if (command.onlyGroup === chat.jid.includes('-')) sendMsg = true;
                     }
   
                     if (sendMsg) {
@@ -325,10 +342,17 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         try {
                             await command.function(whats, match);
                         } catch (error) {
-                            if (config.NOLOG === 'off') {
-                                
-                                await conn.sendMessage(conn.user.jid, '*~_________~ ᴋᴀᴢᴛʀᴏsᴇʀ ~______~*' +
-                                    '\n*🌀 Follow this page other wise chance to get erorr: https://instagram.com/_aj_fx._?utm_medium=copy_link*' +
+                            if (config.LANG == 'TR' || config.LANG == 'AZ') {
+                                await conn.sendMessage(conn.user.jid, '-- HATA RAPORU [WHATSASENA] --' + 
+                                    '\n*WhatsAsena bir hata gerçekleşti!*'+
+                                    '\n_Bu hata logunda numaranız veya karşı bir tarafın numarası olabilir. Lütfen buna dikkat edin!_' +
+                                    '\n_Yardım için Telegram grubumuza yazabilirsiniz._' +
+                                    '\n_Bu mesaj sizin numaranıza (kaydedilen mesajlar) gitmiş olmalıdır._\n\n' +
+                                    'Gerçekleşen Hata: ' + error + '\n\n'
+                                    , MessageType.text);
+                            } else {
+                                await conn.sendMessage(conn.user.jid, '*~______~ Angelina ~______~*' +
+                                    '\n*🌀 An error occured,report error at https://chat.whatsapp.com/DB03ov1LUpO6ForNpdm601' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
@@ -339,7 +363,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         )
     });
 
-    try {
+        try {
         await conn.connect();
     } catch {
         if (!nodb) {
