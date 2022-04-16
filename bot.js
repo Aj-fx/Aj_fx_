@@ -1,10 +1,11 @@
-/* Copyright (C)2020 Yusuf Usta. 
+/* Copyright (C)2020 Yusuf Usta.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 WhatsAsena - Yusuf Usta
+kaztroser -Amal
 */
 
-const fs = require("fs"); 
+const fs = require("fs");
 const path = require("path");
 const events = require("./events");
 const raganork = require("./raganork");
@@ -30,7 +31,7 @@ const WhatsAsenaDB = config.DATABASE.define('WhatsAsena', {
     },
     value: {
         type: DataTypes.TEXT,
-        allowNull: false 
+        allowNull: false
     }
 });
 
@@ -114,13 +115,13 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.blueBright.italic('Confirming password...')
         );
-        if (config.AFPLK == 'OGGYSER' || config.AFPLK == 'ajfx' || config.AFPLK == 'vava' || config.AFPLK == 'OGGYSER') {
+        if (config.AFPLK == 'kaztroser ' || config.AFPLK == 'ajfx' || config.AFPLK == 'vava' || config.AFPLK == 'kaztroser ') {
         //thanks to afnanplk
         console.log(
             chalk.green.bold('thanks for watching -key cofirmed-')
         );
          }
-         else if (config.AFPLK !== 'OGGYSER' || config.AFPLK !== 'ajfx' || config.AFPLK !== 'vava' || config.AFPLK !== 'OGGYSER') {
+         else if (config.AFPLK !== 'kaztroser ' || config.AFPLK !== 'ajfx' || config.AFPLK !== 'vava' || config.AFPLK !== 'kaztroser ') {
          console.log(
             chalk.red.bold('make sure you have typed the correct password'));
          throw new Error("Password Error ⚠⚠ ");         
@@ -154,7 +155,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('ᴏɢɢʏsᴇʀ ᴡᴏʀᴋɪɴɢ ' + config.WORKTYPE + ' ɴᴏᴡ 💞'));
+            chalk.green.bold('KAZTROSER  ' + config.WORKTYPE + ' NOW🌟'));
           // thanks to afnanplk
 	    if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
@@ -170,29 +171,57 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     );
                     await conn.sendMessage(
                         conn.user.jid,
-                        '```type``` *.update now* ```to update```\n\n```wait..wait..\n\n ask support group before updating' + degisiklikler + '```', MessageType.text
+                        '*🌟HEY BRO KAZTROSER UPDATE FOR AVAILABLE🌟*' + degisiklikler + '```', MessageType.text
                     ); 
                 } 
           }
     });
     setInterval(async () => { 
-	var getGMTh = new Date().getHours()
+        var getGMTh = new Date().getHours()
         var getGMTm = new Date().getMinutes()
-        var ansk = 'https://gist.github.com/Aj-fx/c71d61990ff1a3b4bf0e58dba2d59824/raw'
-	    while (getGMTh == 7 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS OGGYSER ]*\n\n' + announce});
-        }       while (getGMTh == 9 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS OGGYSER ]*\n\n' + announce});
-        }	while (getGMTh == 13 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS OGGYSER ]*\n\n' + announce});
-        }	while (getGMTh == 17 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS OGGYSER ]*\n\n' + announce});
-        }       while (getGMTh == 21 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS OGGYSER ]*\n\n' + announce});
-        }       while (getGMTh == 22 && getGMTm == 01) {
-            return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS OGGYSER ]*\n\n' + announce});
+        var ansk = 'https://gist.github.com/Aj-fx/66d7104b3109c33007c5a18deb72cd13/raw'
+         
+        while (getGMTh == 9 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+               //Thanks to souravkl11         
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
         }
-    }, 50000);
+		while (getGMTh == 13 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+                        
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
+        }
+		while (getGMTh == 17 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+                  
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
+        }
+		while (getGMTh == 21 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+                      
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
+        }
+    }, 50000);//Thanks to ajayan
 
     conn.on('chat-update', async m => {
         if (!m.hasNewMessage) return;
@@ -278,8 +307,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG === 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~ ᴏɢɢʏsᴇʀ ~______~*' +
-                                    '\n*🌀 Follow this page other wise chance to get erorr: https://instagram.com/_o._.g._.g._.y._?utm_medium=copy_link*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ kaztroser  ~______~*' +
+                                    '\n*🌀 Subcribe this channel other wise chance to get erorr: https://youtube.com/channel/UCT7x7a4HJ72bbMNx49Z9DTA*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
