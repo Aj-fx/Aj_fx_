@@ -39,7 +39,7 @@
         "V_HEADER": {
             "description": "Set the Header name logo",
             "required": true,
-            "value": "*007*"
+            "value": "Ⓐ︎🅙︎Ⓕ︎🅧︎"
         },
         "VERIFIED": {
             "description": "Give with number jid",
@@ -54,7 +54,7 @@
         "DIALOGUE": {
             "description": "set the Dialouge",
             "required": true,
-            "value": "*ᴀᴊғx ғᴀɴ ʙᴏᴛ...♡︎*"
+            "value": "ᴀᴊғx ғᴀɴ ʙᴏᴛ...♡︎"
         },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
