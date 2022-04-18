@@ -39,7 +39,7 @@
         "V_HEADER": {
             "description": "Set the Header name logo",
             "required": true,
-            "value": "Ⓐ︎🅙︎Ⓕ︎🅧︎"
+            "value": "Ajfx"
         },
         "VERIFIED": {
             "description": "Give with number jid",
