@@ -50,7 +50,7 @@ module.exports = {
     DISSTICKER: process.env.DISABLE_STICKER === undefined ? false : process.env.DISABLE_STICKER,
     BOT: process.env.BOT_NAME === undefined ? '⊢‒‒‒ ⋈ ᴋᴀᴢᴛʀᴏsᴇʀ ⋈ ‒‒‒⊣' : process.env.BOT_NAME,
     ALIVEONE: process.env.ALIVEBUTTON === undefined ? '₹' : process.env.ALIVEBUTTON,
-    ALIVE_TWO: process.env.ALIVE_BUTTON === undefined ? '$' : process.env.AALIVE_BUTTON,   
+    ALIVE_TWO: process.env.ALIVE_BUTTON === undefined ? '$' : process.env.ALIVE_BUTTON,   
     NOLOG: process.env.NO_LOG === undefined ? 'true' : process.env.NO_LOG,
     THERI_KICK: process.env.THERI_KICK === undefined ? 'false' : process.env.THERI_KICK,
     SONGD: process.env.SONGD === undefined ? '➠ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ..♬ ' : process.env.SONGD,
