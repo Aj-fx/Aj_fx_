@@ -480,18 +480,6 @@ if (config.WORKTYPE == 'private') {
             });
     }));
 
-    Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.NUMBER}, (async (message, match) => {
-
-            const vcard = 'BEGIN:VCARD\n'
-            + 'VERSION:3.0\n' 
-            + 'FN:' + Config.OA_NAME + '\n' //created afnanplk, please copy this with credit..
-            + 'ORG:ᴀᴊғx;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=' + Config.PHONE + ':' + Config.PHONE + ' \n'
-            + 'END:VCARD'
-await message.client.sendMessage(message.jid, {displayname: "ᴀᴊғx", vcard: vcard}, MessageType.contact);
-
-  }));
-    
     Asena.addCommand({pattern: 'video ?(.*)', fromMe: true, desc: Lang.VIDEO_DESC}, (async (message, match) => { 
 
         if (match[1] === '') return await message.client.sendMessage(message.jid,Lang.NEED_VIDEO,MessageType.text);    
@@ -1128,18 +1116,6 @@ else if (config.WORKTYPE == 'public') {
           )
       },
     )
-    Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.NUMBER}, (async (message, match) => {
-
-            const vcard = 'BEGIN:VCARD\n'
-            + 'VERSION:3.0\n' 
-            + 'FN:' + Config.OA_NAME + '\n' //created afnanplk, please copy this with credit..
-            + 'ORG:ᴀᴊғx;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=' + Config.PHONE + ':' + Config.PHONE + ' \n'
-            + 'END:VCARD'
-await message.client.sendMessage(message.jid, {displayname: "ᴀᴊғx", vcard: vcard}, MessageType.contact);
-
-  }));
-   
     Asena.addCommand({pattern: 'lyric ?(.*)', fromMe: false, desc: Slang.LY_DESC }, (async (message, match) => {
 
         if (match[1] === '') return await message.client.sendMessage(message.jid, Slang.NEED, MessageType.text);
