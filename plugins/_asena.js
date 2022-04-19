@@ -6,6 +6,7 @@ Remoded by - Amalser
 
 const Asena = require('../events');
 const Config = require('../config');
+const {FancyRandom,skbuffer} = require('raganork-bot');
 const {MessageType} = require('@adiwajshing/baileys');
 const fs = require("fs")
 const image = require('../buffer');
