@@ -4,6 +4,8 @@ const exec = require('child_process').exec;
 const os = require("os");
 const fs = require('fs');
 const Config = require('../config')
+const image = require('../buffer');
+ var img = image.skbuffer(Config.LOGOSK)
 Ktb.addCommand({ pattern: 'fx ?(.*)', fromMe: false, desc: 'owner number' }, (async (message, match) => {
 
 //coded by saidali
