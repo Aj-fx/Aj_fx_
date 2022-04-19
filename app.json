@@ -49,7 +49,7 @@
         "ALL_IMG": {
             "description": "Set the logo",
             "required": true,
-            "value": "https://telegra.ph/file/10b9d1ce0b50ae38fc6df.jpg"
+            "value": "https://www.linkpicture.com/q/rgnk.jpg"
         },
         "DIALOGUE": {
             "description": "set the Dialouge",
