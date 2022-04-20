@@ -155,7 +155,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('KAZTROSER  ' + config.WORKTYPE + ' NOW🌟'));
+            chalk.green.bold('KAZTROSER WORK ' + config.WORKTYPE + ' NOW✨🌈'));
           // thanks to afnanplk
 	    if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
@@ -171,7 +171,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     );
                     await conn.sendMessage(
                         conn.user.jid,
-                        '*🌟HEY BRO KAZTROSER UPDATE FOR AVAILABLE🌟*' + degisiklikler + '```', MessageType.text
+                        '*🌟KAZTROSER UPDATE🌟*' + degisiklikler + '```', MessageType.text
                     ); 
                 } 
           }
