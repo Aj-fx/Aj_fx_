@@ -57,5 +57,5 @@
 * [`Ajfx`](https://github.com/Aj-fx)
 * [`Amalser`](https://github.com/Amal-ser)
 * [`Alien Alfa`](https://github.com/Alien-Alfa)
-* [`jule mowle`](https://github.com/MhankBarBar)
-* [`Abu ser`](https://github.com/Ajf-abu)
+* [`jule mowle`](https://github.com/farhan-dqz-Julie)
+* [`Abu ser`](https://github.com/Afx-abu)
