@@ -7,29 +7,29 @@
 <a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Author-𝗔𝗝𝗙𝗫-Ajfxv1/Ajfx?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴍᴏᴅɪғɪᴇᴅ ʙʏ<a href="https://github.com/cyberchekuthan">ᴀͥᴊͭᴀᷤʏᴀͫɴͤ</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴍᴏᴅɪғɪᴇᴅ ʙʏ<a href="https://github.com/Aj-fx">ᴀͥᴊͭᴀᷤʏᴀͫɴͤ</a>
     <br>
        | 彡[©]彡 |
        🆁🅴🆂🅴🆁🆅🅴🅳 |
     <br> 
 </p>
 
-### 𝗜𝗡𝗦𝗧𝗔 𝗣𝗔𝗦𝗦𝗪𝗢𝗥𝗗:ajfx
+### `𝗜𝗡𝗦𝗧𝗔 𝗣𝗔𝗦𝗦𝗪𝗢𝗥𝗗:ajfx`
 
-### SIMPLE SETUP
+### `SIMPLE SETUP`
 
-## follow 5 step
-## 1 <a href="https://github.com/signup/" target="_blank"><img src="https://img.shields.io/badge/GitHub............-%231877F2.svg?&style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a> 
+## `𝐅𝐎𝐋𝐋𝐎𝐖 5 𝐒𝐓𝐄𝐏`
+* 1 <a href="https://github.com/signup/" target="_blank"><img src="https://img.shields.io/badge/GitHub............-%231877F2.svg?&style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a> 
 
-## 2 <a href="https://replit.com/@Aj-fx/KAZTROSER-QR?v=1" target="_blank"><img src="https://img.shields.io/badge/Kaztroser-Qrcode-%808080.svg?&style=flat-square&logo=Qr&logoColor=white" alt="Qrcode"></a>
+* 2 <a href="https://replit.com/@Aj-fx/KAZTROSER-QR?v=1" target="_blank"><img src="https://img.shields.io/badge/Kaztroser-Qrcode-%808080.svg?&style=flat-square&logo=Qr&logoColor=white" alt="Qrcode"></a>
 
-## 3 <a href="https://signup.heroku.com" target="_blank"><img src="https://img.shields.io/badge/Heroku...........-%23E4405F.svg?&style=flat-square&logo=Heroku&logoColor=white" alt="Heroku"></a>
+* 3 <a href="https://signup.heroku.com" target="_blank"><img src="https://img.shields.io/badge/Heroku...........-%23E4405F.svg?&style=flat-square&logo=Heroku&logoColor=white" alt="Heroku"></a>
 
-## 4 <a href="https://github.com/Aj-fx/Kaztro_ser/fork" target="_blank"><img src="https://img.shields.io/badge/Fork-Kaztro_ser...-%808080.svg?&style=flat-square&logo=GitHub &logoColor=white" alt="GitHub"></a>
+* 4 <a href="https://github.com/Aj-fx/Kaztro_ser/fork" target="_blank"><img src="https://img.shields.io/badge/Fork-Kaztro_ser...-%808080.svg?&style=flat-square&logo=GitHub &logoColor=white" alt="GitHub"></a>
 
-## 5 https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro_ser  copy this url and change Aj-fx with your github username and go<br>
+* 5 https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro_ser  copy this url and change Aj-fx with your github username and go<br>
 
-  <p align="center">
+ <p align="center">
   <a href="httsp://github.com/Aj-fx/Kaztro_ser">
    <p align="center">
 <a href="https://github.com/Aj-fx/Kaztro_ser/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
@@ -44,10 +44,7 @@
 <a href="https://github.com/Aj-fx/Kaztro_ser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aj-fx/Kaztro_ser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## 📢 Guide
-
-## 𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗔𝗟𝗟 𝗟𝗢𝗚𝗢𝗦
-
+## `𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗢𝗪𝗡𝗘𝗥`
 <a href="https://youtu.be/AGk2F4uORtc/" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
 <a href="https://instagram.com/_aj_fx._?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://wa.me/918281440156" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
