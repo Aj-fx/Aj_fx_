@@ -52,7 +52,8 @@
 
 ## ⚠️ Thanks To ⚠️
 * [`Ajfx`](https://github.com/Aj-fx)
+* [`Abuser`](https://github.com/Afx-abu)
 * [`Amalser`](https://github.com/Amal-ser)
-* [`Alien Alfa`](https://github.com/Alien-Alfa)
 * [`JulieMwol`](https://github.com/farhan-dqz-Julie)
-* [`Abu ser`](https://github.com/Afx-abu)
+* [`Afnan PLK`](https://github.com/afnanplk)
+* [`Alien Alfa`](https://github.com/Alien-Alfa)
