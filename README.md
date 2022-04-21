@@ -53,3 +53,9 @@
 <a href="https://wa.me/918281440156" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 <a href="https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f" target="_blank"><img src="https://img.shields.io/badge/kaztroser bot group-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
+## ⚠️ Thanks To
+* [`Ajfx`](https://github.com/Aj-fx)
+* [`Amalser`](https://github.com/Amal-ser)
+* [`Alien Alfa`](https://github.com/Alien-Alfa)
+* [`jule mowle`](https://github.com/MhankBarBar)
+* [`Abu ser`](https://github.com/Ajf-abu)
