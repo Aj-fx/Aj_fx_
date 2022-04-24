@@ -74,7 +74,7 @@
         "ALIVE_BUTTON": {
             "description": "Set the alive message one",
             "required": true,
-            "value": "😂/🥺"
+            "value": "ʜᴀᴘᴘʏ☺︎︎/sᴀᴅ☹︎"
         },
         "INBO_BLOCK": {
             "description": "Inbox Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka",
