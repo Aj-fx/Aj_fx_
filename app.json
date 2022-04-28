@@ -49,7 +49,7 @@
         "ALL_IMG": {
             "description": "Set the logo",
             "required": true,
-            "value": "https://www.linkpicture.com/q/rgnk.jpg"
+            "value": "https://i.imgur.com/svROV4L.jpeg"
         },
         "DIALOGUE": {
             "description": "set the Dialouge",
