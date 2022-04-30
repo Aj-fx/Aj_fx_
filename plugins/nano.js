@@ -21,7 +21,7 @@ Kaztro.addCommand({pattern: 'nano', fromMe: whb, dontAddCommandList: true}, (asy
       ]
       
       const buttonMessage = {
-          contentText: '╭─➤ 𝜣͢𝑾𝜨𝜩𝑹 𝜤𝜨𝑭𝜭 »\n│❖ ᴀᴜᴛʜᴏʀ : '+Config.OWNER+'\n│❖ ᴋᴇʀɴᴇʟ : ʟɪɴᴜx\n│❖ ɪɴꜱᴛᴀɢʀᴀᴍ : '+Config.INSTA+'\n│❖ ᴡʜᴀᴛꜱᴀᴘᴘ : wa.me/'+Config.NU+'\n╰────────────────❋ཻུ۪۪➹\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n'+Config.BOT+'™',
+          contentText: '╭─➤ 𝜣͢𝑾𝜨𝜩𝑹 𝜤𝜨𝑭𝜭 »\n│❖ ᴀᴜᴛʜᴏʀ : '+Config.OWNER+'\n│❖ ᴋᴇʀɴᴇʟ : ʟɪɴᴜx\n│❖ ɪɴꜱᴛᴀɢʀᴀᴍ : '+Config.INSTA+'\n│❖ ᴡʜᴀᴛꜱᴀᴘᴘ : wa.me/'+Config.PHONE+'\n╰────────────────❋ཻུ۪۪➹\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n'+Config.BOT+'™',
           footerText:  '©'+Config.BOT+' ™',
           buttons: buttons,
           headerType: 1
