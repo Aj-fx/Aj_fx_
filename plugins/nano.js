@@ -14,10 +14,10 @@ var ddd = ggg.toString('utf-8')
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-Kaztro.addCommand({pattern: 'abu', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+Kaztro.addCommand({pattern: 'nano', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
 // send a buttons message!credit Kaztro
     const buttons = [
-        {buttonId: 'id1', buttonText: {displayText: Owner }, type: 1},
+        {buttonId: 'id1', buttonText: {displayText: Config.OWNER }, type: 1},
       ]
       
       const buttonMessage = {
