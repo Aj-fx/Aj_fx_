@@ -12,6 +12,7 @@ const UPLOAD_ING = "*✅️ DOWNLOADING COMPLETED* \n\n *UPLOADING IN PROCESS...
 const axios = require('axios')
 const Axios = require('axios')
 const Config = require('../config');
+const GIT = "it sends links"
 
 const Language = require('../language');
 const Lang = Language.getString('sticker');
@@ -26,8 +27,8 @@ Abu.addCommand({on: 'text', fromMe: wk, deleteCommand: false}, (async (message, 
          }
          let regex1 = new RegExp('sticker')
        //  let regex2 = new RegExp('snd')
-         let regex3 = new RegExp('owner')
-         let regex4 = new RegExp('𝑶𝑾𝑵𝑬𝑹')
+         let regex3 = new RegExp('𝐆𝐈𝐓')
+         let regex4 = new RegExp('𝐎𝐖𝐍𝐄𝐑')
         // let regex5 = new RegExp('https://youtu.be')
 	 let regex6 = new RegExp('link')
 	 
@@ -103,24 +104,25 @@ Abu.addCommand({on: 'text', fromMe: wk, deleteCommand: false}, (async (message, 
 */
 if (regex3.test(message.message)) {
 
-    const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
-            + 'VERSION:3.0\n' 
-            + 'FN:KAZTRO [KAZTRO SER]\n' // full name
-            + 'ORG:KAZTRO SER;\n' // 
-            + 'TEL;type=CELL;type=VOICE;waid=7025994178:+91 9074994655\n' // WhatsApp ID + phone number
-            + 'END:VCARD'
-await message.client.sendMessage(message.jid,{displayname: "OWNER [KAZTRO SER]", vcard: vcard}, MessageType.contact)
+    var r_text = new Array ();
+    
+    r_text[1] = "*╔═════😈𝐊𝐀𝐙𝐓𝐑𝐎𝐒𝐄𝐑😈═════╗*\n           \n*⚜═ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ═⚜*\n\n*GIT LINK: https://github.com/Aj-fx/Kaztro_ser*\n*            *\n*╚══════😈𝐊𝐀𝐙𝐓𝐑𝐎𝐒𝐄𝐑😈═════╝*"
+
+    
+    await message.client.sendMessage(
+        message.jid,(r_text[1]), MessageType.text);
+
 }
 
 if (regex4.test(message.message)) {
 
-    const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
+    const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
-            + 'FN:OWNER [KAZTRO SER]\n' // full name
-            + 'ORG:KAZTRO SER;\n' // 
-            + 'TEL;type=CELL;type=VOICE;waid=7025994178:+91 9074994655\n' // WhatsApp ID + phone number
+            + 'FN:' + Config.OWNER + '\n' //created Aj-fx,
+            + 'ORG:Aj-fx;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=' + Config.PHONE + ':' + Config.PHONE + ' \n'
             + 'END:VCARD'
-await message.client.sendMessage(message.jid,{displayname: "OWNER [KAZTRO SER]", vcard: vcard}, MessageType.contact)
+await message.client.sendMessage(message.jid, {displayname: "➪ ʙᴏᴛ ᴏᴡɴᴇʀ", vcard: vcard}, MessageType.contact, { mimetype: Mimetype.contact, quoted: message.data, ptt: true,quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(message.jid ? { remoteJid: "status@broadcast" } : {}) }, message: { orderMessage: { itemCount: 99999, status: 200, thumbnail: fs.readFileSync('photo/k.png')), surface: 200, message: Config.BOTSK, orderTitle: Config.BOTSK, "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg", "caption": Config.BOTSK + '\n', "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=", "fileLength": "28777", "height": 1080, "width": 1080, "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=", "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=", "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69", "mediaKeyTimestamp": "1610993486", "jpegThumbnail": fs.readFileSync('photo/k.png'))}}}});
 }
 /*
 if (regex5.test(message.message)) {
