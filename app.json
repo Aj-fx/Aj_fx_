@@ -13,7 +13,7 @@
             "required": true
         },
         "GROUP_LINK": {
-            "description": "reply for .group ! give your details, Use => default, to change back.",
+            "description": "type your group link",
             "required": false,
             "value": "https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f"
         },
