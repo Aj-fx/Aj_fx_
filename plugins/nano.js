@@ -106,7 +106,7 @@ if (regex3.test(message.message)) {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔═════😈𝐊𝐀𝐙𝐓𝐑𝐎𝐒𝐄𝐑😈═════╗*\n           \n*⚜═ᴋⷪᴀᷫᴢᷫᴛᷝʀⷭᴏᷝsⷶᴇᷞʀ═⚜*\n\n*GIT LINK: https://github.com/Aj-fx/Kaztro_ser*\n*            *\n*╚══════😈𝐊𝐀𝐙𝐓𝐑𝐎𝐒𝐄𝐑😈═════╝*"
+    r_text[1] = "*╔═════😈𝐊𝐀𝐙𝐓𝐑𝐎𝐒𝐄𝐑😈═════╗*\n           \n\n\n*GIT LINK: https://github.com/Aj-fx/Kaztro_ser*\n*           *\n*╚══════😈𝐊𝐀𝐙𝐓𝐑𝐎𝐒𝐄𝐑😈═════╝*"
 
     
     await message.client.sendMessage(
