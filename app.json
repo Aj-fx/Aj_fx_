@@ -13,7 +13,7 @@
             "required": true
         },
         "GROUP_LINK": {
-            "description": "type your group link",
+            "description": "Enter your group link",
             "required": true,
             "value": "https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f"
         },
@@ -37,7 +37,7 @@
             "value": "true"
         },
         "V_HEADER": {
-            "description": "Set the Header name logo",
+            "description": "Enter your logo name here ",
             "required": true,
             "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴋᴀᴢᴛʀᴏsᴇʀ࿐"
         },
@@ -67,14 +67,24 @@
             "value": "https://i.imgur.com/KUaX2XT.jpeg"
         },
         "LOGO_NAME": {
-            "description": "Set the logo list name",
+            "description": "Enter your logo name here",
             "required": true,
             "value": "ᴋᴀᴢᴛʀᴏsᴇʀ"
         },
         "INSTAGRAM": {
-            "description": "type your insta ID",
+            "description": "Enter your Instagram id here",
             "required": true,
             "value": "https://instagram.com/ajayan_007?utm_medium=copy_link"
+        },
+        "YOUTUBE_LINK": {
+            "description": "Enter your YouTube link here",
+            "required": true,
+            "value": "https://youtube.com/channel/UCqFyvZP5Ipc-RFfX3QFMS0w"
+        },
+        "GIT_LINK": {
+            "description": "Enter your git link here",
+            "required": true,
+            "value": "https://github.com/Aj-fx/Kaztro_ser"
         },
         "INBO_BLOCK": {
             "description": "Inbox Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka",
@@ -173,7 +183,7 @@
         "TAG_HEADER": {
             "description": "Heading when taging all",
             "required": false,
-            "value": "ʜᴇʟᴏ ɢᴜʏs"
+            "value": "*ʜᴇʟᴏ ɢᴜʏs*"
         },
         "CMD_LIST": {
             "description": "You can change Command list emojis like: help/❤️/😅/🍃/💌.)",
@@ -201,7 +211,7 @@
             "value": "default"
         },
         "BOT_NAME": {
-            "description": "heading for .list command reply",
+            "description": "Enter your bot name here",
             "required": true,
             "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴋᴀᴢᴛʀᴏsᴇʀ࿐"
         },
@@ -220,7 +230,7 @@
             "value": "false"
         },
         "OWNER_NAME": {
-            "description": "reply for .owner ! give your details, Use => default, to change back.",
+            "description": "Enter your name here",
             "required": false,
             "value": "ᴀᴊғx"
         },
@@ -235,7 +245,7 @@
             "value": "918281440156"
         },
         "DEPLOYER": {
-            "description": "enter your name here",
+            "description": "Enter your name here",
             "required": false
         },
         "REMOVE_BG_API_KEY": {
