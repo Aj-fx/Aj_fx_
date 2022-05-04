@@ -19,13 +19,13 @@
 ### `SIMPLE SETUP`
 
 ## `𝐅𝐎𝐋𝐋𝐎𝐖 5 𝐒𝐓𝐄𝐏`
-* 1 <a href="https://github.com/signup/" target="_blank"><img src="https://img.shields.io/badge/GitHub............-%231877F2.svg?&style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a> 
+* 1 [`GITHUB ACCOUNT`](https://github.com/signup/)
 
-* 2 <a href="https://replit.com/@Aj-fx/KAZTROSER-QR?v=1" target="_blank"><img src="https://img.shields.io/badge/Kaztroser-Qrcode-%808080.svg?&style=flat-square&logo=Qr&logoColor=white" alt="Qrcode"></a>
+* 2 [`HEROKU ACCOUNT`](https://heroku.com/signup/)
 
-* 3 <a href="https://signup.heroku.com" target="_blank"><img src="https://img.shields.io/badge/Heroku...........-%23E4405F.svg?&style=flat-square&logo=Heroku&logoColor=white" alt="Heroku"></a>
+* 3 [`QRCODE`](https://replit.com/@Aj-fx/KAZTROSER-QR?v=1)
 
-* 4 <a href="https://github.com/Aj-fx/Kaztro_ser/fork" target="_blank"><img src="https://img.shields.io/badge/Fork-Kaztro_ser...-%808080.svg?&style=flat-square&logo=GitHub &logoColor=white" alt="GitHub"></a>
+* 4 [`FORK`](https://github.com/Aj-fx/Kaztro_ser/fork)
 
 * 5 https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro_ser  copy this url and change Aj-fx with your github username and go<br>
 
