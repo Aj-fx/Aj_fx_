@@ -14,7 +14,7 @@
         },
         "GROUP_LINK": {
             "description": "type your group link",
-            "required": false,
+            "required": true,
             "value": "https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f"
         },
         "SUDO": {
