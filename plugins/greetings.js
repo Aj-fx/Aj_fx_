@@ -103,6 +103,34 @@ Asena.addCommand({pattern: 'goodbye$', fromMe: false, desc: Lang.GOODBYE_DESC}, 
     }
 }));
 
+Asena.addCommand({pattern: 'mention ?(.*)',fromMe: true,desc: Lang.MENTION_DESC,},
+  async (message, match) => {
+    if (match == "")
+      return await message.sendMessage(
+        genButtons(["ON", "OFF", "GET"], Lang.M_ENABLE, "Choose"),
+        {},
+        MessageType.buttonsMessage
+      )
+    if (match == "get") {
+      let msg = await mentionMessage()
+      if (!msg)
+        return await message.sendMessage(Lang.NOT_ENABLED.format("Mention"))
+      return await message.sendMessage(msg)
+    } else if (match == "on" || match == "off") {
+      await enableMention(match)
+      return await message.sendMessage(
+        Lang.A_ENABLED.format(
+          "Reply to Mention",
+          `${match == "on" ? Lang.ENABLE : Lang.DISABLE}`
+        )
+      )
+    }
+    await enableMention(match)
+    clearFiles()
+    return await message.sendMessage(Lang.A_UPDATED.format("Mention"))
+  }
+)
+
 Asena.addCommand({pattern: 'goodbye (.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
     var us = await checkUsAdmin(message);
     if (!us) return await message.client.sendMessage(message.jid,Lang.PLKADMIN,MessageType.text ,{quoted: message.data });
