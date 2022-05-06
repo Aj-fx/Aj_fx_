@@ -84,7 +84,7 @@
             "RESTART_DESC": "Restart WhatsAsena",
             "RESTART_MSG": "```Restarting...```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
-            "SHUTDOWN_MSG": "*Shutting down 🥀*",
+            "SHUTDOWN_MSG": "*sʜᴜᴛᴅᴏᴡɴ ✔︎*",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -155,7 +155,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "*Bye bye! I am going 😁*",
+            "KICKME": "*Bye bye! I am going ㋛︎*",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -236,7 +236,7 @@
             "PLKADMIN": ".report you are not admin \n\n 🇩​🇴​🇳​🇹​ 🇹​🇷​🇾​ 🇦​🇬​🇦​🇮​🇳​, 🇮​🇫​ 🇾​🇴​🇺​ 🇹​🇷​🇾​ 🇾​🇴​🇺​ 🇼​🇮​🇱​🇱​ 🇧​🇪​ 🇷​🇪​🇲​🇴​🇻​🇪​🇩​ 🇧​🇾​ 🇦​🇩​🇲​🇮​🇳​🇸​",
             "TAGADMİN": "Tags group admins.",
             "REPORT": "Sends reports to group admins.",
-            "USER": "*===== Warning ⚠️ =====*\n\n*User:* ",
+            "USER": "*═════⚠︎𝐖𝐀𝐑𝐍𝐈𝐍𝐆⚠︎═════*\n\n*User:* ",
             "REASON": "\n*Warn 👉 :* ",
             "REPLY": "*Please Respond to User's Message to Report!*"
         },
@@ -247,8 +247,8 @@
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "*ᴋᴀᴢᴛʀᴏsᴇʀ ᴜᴘᴅᴀᴛɪɴɢ..♡︎*",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "*Updated 🗣️*",
-            "UPDATED_LOCAL": "*🗣️ Updated!*",
+            "UPDATED": "*══⚠︎Updated⚠︎══*",
+            "UPDATED_LOCAL": "*══Updated══*",
             "AFTER_UPDATE": "*ᴋᴀᴢᴛʀᴏsᴇʀ ʀᴇsᴛᴀʀᴛɪɴɢ 🗣️*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
