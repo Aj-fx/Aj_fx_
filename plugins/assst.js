@@ -2,7 +2,7 @@ const Asena = require('../events');
 const Config = require('../config');
 const {MessageType} = require('@adiwajshing/baileys');
 const fs = require("fs")
-const {skbuffer} = require('../buffer');
+const image = require('../buffer');
 const Language = require('../language');
 const Lang = Language.getString('_asena');
 var skcmd, sk1,sk2,sk3,sk4
@@ -362,7 +362,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
 else if (Config.WORKTYPE == 'public') {
 
     Asena.addCommand({pattern: 'assist ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
-        var img = await skbuffer(Config.LOGOSK)
+        var img = image.skbuffer(Config.LOGOSK)
         var CMD_HELP = '';
         if (match[1] === '') {
             Asena.commands.map(
