@@ -8,7 +8,7 @@ const afn = Config.PLKS !== false ? Config.PLKS.split(',') : [];
 const {skbuffer} = require('../buffer');
 const Language = require('../language');
 const Lang = Language.getString('filters');
-var img = await skbuffer(Config.LOGOSK)
+
 
 
 Asena.addCommand({pattern: 'filter ?(.*)', fromMe: true, desc: Lang.FILTER_DESC, dontAddCommandList: true}, (async (message, match) => {
@@ -84,6 +84,7 @@ if(pattern.test(message.message)){
     if (Config.GEAR == 'two') {    
     Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {   
         if(Config.BGMFILTER){
+        var img = await skbuffer(Config.LOGOSK)
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
         if (!!message.mention && message.mention[0] == '918281440156@s.whatsapp.net') {
