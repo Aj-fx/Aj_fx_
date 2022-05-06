@@ -9,22 +9,25 @@ Asena.addCommand({pattern: 'pics', fromMe: false, desc: "Gives github link of th
 
     var skl = await axios.get("https://i.imgur.com/3Aiq6WO.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴋᴀᴢᴛʀᴏsᴇʀ࿐*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*🔸PICS COMMENTS🔸*
                   
-         *🔸PICS COMMENTS🔸*
+         
                    
-✨ *Cristiano ronaldo pics* .ronaldo
+✨ *Cristiano ronaldo pics* 
+📌 .ronaldo
 
-✨ *Noorin shereef* .noorin
+✨ *Noorin shereef* 
+📌 .noorin
 
-✨ *Rashmika mandanna* .rashmika
+✨ *Rashmika mandanna* 
+📌 .rashmika
 
-✨ *xxxtentacion* .xxxtentacion
+✨ *xxxtentacion* 
+📌 .xxxtentacion
 
- *🍁more pics and comments coming soon..🍁*
+
     
-    
-    *🌟Thanks Ajfx and Kaztroser🌟*
+    *🌟Thanks Ajfx🌟*
  
 `}) 
 
