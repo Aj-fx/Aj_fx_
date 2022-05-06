@@ -362,7 +362,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
 else if (Config.WORKTYPE == 'public') {
 
     Asena.addCommand({pattern: 'assist ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
-        var img = image.skbuffer(Config.LOGOSK)
+        var img = await skbuffer(Config.LOGOSK)
         var CMD_HELP = '';
         if (match[1] === '') {
             Asena.commands.map(
