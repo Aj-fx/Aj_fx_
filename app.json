@@ -49,7 +49,7 @@
         "ALL_IMG": {
             "description": "Set the logo",
             "required": true,
-            "value": "https://i.imgur.com/svROV4L.jpeg"
+            "value": "https://i.imgur.com/GDPW1qg.jpeg"
         },
         "DIALOGUE": {
             "description": "set the Dialouge",
@@ -64,7 +64,7 @@
         "LG_LOGO": {
             "description": "LOGO list message image link(https://telegra.ph/)link.",
             "required": true,
-            "value": "https://i.imgur.com/KUaX2XT.jpeg"
+            "value": "https://i.imgur.com/GDPW1qg.jpeg"
         },
         "LOGO_NAME": {
             "description": "Enter your logo name here",
