@@ -42,7 +42,7 @@ Asena.addCommand({pattern: 'tagall ?(.*)', fromMe: true, dontAddCommandList: tru
             mesaj = '';
             grup['participants'].map(
                 async (uye) => {
-                    mesaj += '\n 🇬🇧 @' + uye.id.split('@')[0] + 'ㅤ';
+                    mesaj += '\n 📌 @' + uye.id.split('@')[0] + 'ㅤ';
                     jids.push(uye.id.replace('c.us', 's.whatsapp.net'));
                 }
             );
@@ -90,7 +90,7 @@ else if (Config.WORKTYPE == 'public') {
             mesaj = '';
             grup['participants'].map(
                 async (uye) => {
-                    mesaj += '\n 🇬🇧 @' + uye.id.split('@')[0] + 'ㅤ';
+                    mesaj += '\n 📌 @' + uye.id.split('@')[0] + 'ㅤ';
                     jids.push(uye.id.replace('c.us', 's.whatsapp.net'));
                 }
             );
@@ -168,7 +168,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
             mesaj = '';
             grup['participants'].map(
                 async (uye) => {
-                    mesaj += '\n 🌀 @' + uye.id.split('@')[0] + 'ㅤ';
+                    mesaj += '\n 🌟 @' + uye.id.split('@')[0] + 'ㅤ';
                     jids.push(uye.id.replace('c.us', 's.whatsapp.net'));
                 }
             );
@@ -190,7 +190,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
     }
 }));
     
-     Asena.addCommand({pattern: 'report ?(.*)', fromMe: false, desc: 'to report someone'}, (async (message, match) => {
+     Asena.addCommand({pattern: 'rp ?(.*)', fromMe: false, desc: 'to report someone'}, (async (message, match) => {
         if (match[1] == '') {
             let grup = await message.client.groupMetadata(message.jid);
             var jids = [];
