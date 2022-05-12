@@ -19,10 +19,10 @@ Kaztroser.addCommand({pattern: 'setvar', fromMe: false, desc: 'command help menu
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, contextInfo: {mentionedJid: message.mention}, caption: `
-   ` + config.LOGO_NAME + `
+   
 
   
-    *` + config.ALL + `*
+    *` + config.LOGO_NAME + `*
 ■□■□■□■□■□■□■□■□■□■□
 All setvars are
 
@@ -94,7 +94,7 @@ All setvars are
 
     □■□` + config.OWNER + `■□■□
 
-      ════🌟` + config.BOT + `🌟═════
+      ══🌟` + config.BOT + `🌟══
 `}) 
 
 }));
