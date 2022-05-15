@@ -219,33 +219,6 @@ async function checkImAdmin(message, user = message.client.user.jid) {
         else if (!message.reply_message) {
             return message.client.sendMessage(message.jid,'Please Respond to Users Message to Report', MessageType.text);
         }
-}));
-if (Config.WORKTYPE == 'private') {
-    Asena.addCommand({pattern: 'tagadmin$', fromMe: true, desc: Lang.TAGADMİN}, (async (message, match) => {
-        let grup = await message.client.groupMetadata(message.jid);
-        var jids = [];
-        mesaj = '';
-        grup['participants'].map(async (uye) => {
-            if (uye.isAdmin) {
-                mesaj += '🌟@' + uye.id.split('@')[0] + '\n';
-                jids.push(uye.id.replace('c.us', 's.whatsapp.net'));
-            }
-        });
-        await message.client.sendMessage(message.jid,mesaj, MessageType.extendedText, {contextInfo: {mentionedJid: jids}, previewType: 0})
-    }));
-}
-else if (Config.WORKTYPE == 'public') {
-    Asena.addCommand({pattern: 'tagadmin$', fromMe: false, desc: Lang.TAGADMİN}, (async (message, match) => {
-        let grup = await message.client.groupMetadata(message.jid);
-        var jids = [];
-        mesaj = '';
-        grup['participants'].map(async (uye) => {
-            if (uye.isAdmin) {
-                mesaj += '🌟@' + uye.id.split('@')[0] + '\n';
-                jids.push(uye.id.replace('c.us', 's.whatsapp.net'));
-            }
-        });
-        await message.client.sendMessage(message.jid,mesaj, MessageType.extendedText, {contextInfo: {mentionedJid: jids}, previewType: 0})
     }));
 }
 
