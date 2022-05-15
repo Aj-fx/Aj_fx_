@@ -92,9 +92,9 @@ All setvars are
  🌼To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
 
-    □■□` + config.OWNER + `■□■□
+    □■□` + config.OWNER + `□■□
 
-      ══🌟` + config.BOT + `🌟══
+      🌟` + config.BOT + `🌟
 `}) 
 
 }));
