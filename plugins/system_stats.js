@@ -88,7 +88,7 @@ var i = Math.floor(31*Math.random())
 		   
 		   var a_plk = new Array ();
 
-        a_plk[0] = Config.LG_LOGO
+        a_plk[0] = Config.LOGOSK
 	 var p = Math.floor(1*Math.random())
 
         var plk_alive = await axios.get(`${a_plk[p]}`, { responseType: 'arraybuffer' })
