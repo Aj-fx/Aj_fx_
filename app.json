@@ -251,7 +251,8 @@
         },
         "DEPLOYER": {
             "description": "Enter your name here",
-            "required": false
+            "required": false,
+            "value": "ᴀͥᴊͭᴀᷤʏᴀͫɴͤ"
         },
         "REMOVE_BG_API_KEY": {
             "description": "https://remove.bg",
