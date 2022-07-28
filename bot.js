@@ -75,8 +75,7 @@ async function whatsAsena () {
 			) {
            whatsAsena()
 		}
-        if (connection === "open") {
-			conn.sendMessage(conn.user.id,{text :'connected ✔✔'})
+        if (connection === "open") {			
             console.log(chalk.green.bold('✅ Login Successful!'));           
            
             // ==================== External Plugins ====================
@@ -88,21 +87,7 @@ async function whatsAsena () {
             );
     
             // ==================== Internal Plugins ====================
-            var plugins = await plugindb.PluginDB.findAll();
-            plugins.map(async (plugin) => {
-              try {
-                  if (!fs.existsSync('./plugins/' + plugin.dataValues.name + '.js')) {
-                      console.log(plugin.dataValues.name);
-                      var response = await got(plugin.dataValues.url);
-                      if (response.statusCode == 200) {
-                          fs.writeFileSync('./plugins/' + plugin.dataValues.name + '.js', response.body);
-                          require('./plugins/' + plugin.dataValues.name + '.js');
-                      }     
-                  }
-              } catch {
-                  console.log('Some Plugins Are Corrupted: ' + plugin.dataValues.name)
-              }
-            });
+           
 
             fs.readdirSync('./plugins').forEach(plugin => {
                 if(path.extname(plugin).toLowerCase() == '.js') {
