@@ -63,8 +63,7 @@ async function whatsAsena () {
         //console.log(s)
 		const { connection, lastDisconnect } = s
         if (connection === "connecting") {
-            console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
-    ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
+        console.log(chalk.green.bold('✅ session restored!'));
         }
 		
 		if (
@@ -75,8 +74,7 @@ async function whatsAsena () {
 			) {
            whatsAsena()
 		}
-        if (connection === "open") {			
-            console.log(chalk.green.bold('✅ Login Successful!'));           
+        if (connection === "open") {			                       
            
             // ==================== External Plugins ====================
             
@@ -97,7 +95,7 @@ async function whatsAsena () {
             // ==================== End Internal Plugins ====================
     
             console.log(
-                chalk.green.bold('✅ Plugins Installed!')
+                chalk.green.bold('✅ Kaztro ser Working!')
             );
             conn.ev.on('messages.upsert',async m => {
                 //console.log(JSON.stringify(m, undefined,1))
