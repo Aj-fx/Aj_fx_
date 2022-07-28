@@ -1,4 +1,4 @@
-const {default: makeWASocket, useSingleFileAuthState } = require("@adiwajshing/baileys")
+const {default: makeWASocket, useSingleFileAuthState, MessageOptions, MessageType, Mimetype, Presence} = require("@adiwajshing/baileys")
 const fs = require("fs");
 const pino = require('pino');
 const path = require("path");
@@ -77,10 +77,17 @@ async function whatsAsena () {
 		}
         if (connection === "open") {
 			conn.sendMessage(conn.user.id,{text :'connected ✔✔'})
-            console.log(chalk.green.bold('✅ Login Successful!'));
-            console.log(chalk.blueBright.italic('⬇️ Installing External Plugins...'));
+            console.log(chalk.green.bold('✅ Login Successful!'));           
            
             // ==================== External Plugins ====================
+            
+            // ==================== End External Plugins ====================
+    
+            console.log(
+                chalk.blueBright.italic('⬇️  Installing Plugins...')
+            );
+    
+            // ==================== Internal Plugins ====================
             var plugins = await plugindb.PluginDB.findAll();
             plugins.map(async (plugin) => {
               try {
@@ -96,13 +103,7 @@ async function whatsAsena () {
                   console.log('Some Plugins Are Corrupted: ' + plugin.dataValues.name)
               }
             });
-            // ==================== End External Plugins ====================
-    
-            console.log(
-                chalk.blueBright.italic('⬇️  Installing Plugins...')
-            );
-    
-            // ==================== Internal Plugins ====================
+
             fs.readdirSync('./plugins').forEach(plugin => {
                 if(path.extname(plugin).toLowerCase() == '.js') {
                     require('./plugins/' + plugin);
