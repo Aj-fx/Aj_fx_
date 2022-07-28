@@ -28,6 +28,7 @@
     "@adiwajshing/baileys": "^4.0.1",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@lh2020/speedtest-net": "^2.1.1",
+    "abu-bot": "2.4.0",
     "textmaker-thiccy": "1.2.1",
     "browser-id3-writer": "^4.4.0",
     "playstore-scraper": "^1.0.0",
