@@ -9,25 +9,12 @@
 <p align="center">
 ᴘʀᴏᴊᴇᴄᴛ ᴍᴏᴅɪғɪᴇᴅ ʙʏ<a href="https://github.com/Aj-fx">ᴀͥᴊͭᴀᷤʏᴀͫɴͤ</a>
     <br>
-       | 彡[©]彡 |
-       🆁🅴🆂🅴🆁🆅🅴🅳 |
+       🆁🅴🆂🅴🆁🆅🅴🅳
     <br> 
 </p>
 
-### `𝗜𝗡𝗦𝗧𝗔 𝗣𝗔𝗦𝗦𝗪𝗢𝗥𝗗:ajfx`
 
 ### `SIMPLE SETUP`
-
-## `𝐅𝐎𝐋𝐋𝐎𝐖 5 𝐒𝐓𝐄𝐏`
-* 1 [`GITHUB ACCOUNT`](https://github.com/signup/)
-
-* 2 [`HEROKU ACCOUNT`](https://heroku.com/signup/)
-
-* 3 [`QRCODE`](https://replit.com/@Aj-fx/KAZTROSER-QR?v=1)
-
-* 4 [`FORK`](https://github.com/Aj-fx/Kaztro_ser/fork)
-
-* 5 https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro_ser  copy this url and change Aj-fx with your github username and go<br>
 
  <p align="center">
   <a href="httsp://github.com/Aj-fx/Kaztro_ser">
