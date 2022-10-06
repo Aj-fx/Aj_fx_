@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=𝐖𝐄𝐋𝐂𝐎𝐌+𝐓𝐎+𝐊𝐀𝐙𝐓𝐑𝐎𝐒𝐄𝐑+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐀𝐉+𝐅𝐗)](https://git.io/typing-svg)
  
   <p align="center">
-<span class="avatar"><img height='320' src="https://i.imgur.com/GDPW1qg.jpeg"> </a></span> 
+<span class="avatar"><img height='320' src="https://i.ibb.co/L9VdnSV/a7fcb75eebd3.jpg"> </a></span> 
 </p>
   <p align="center">
 <a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Author-𝗔𝗝𝗙𝗫-Ajfxv1/Ajfx?color=blue&style=for-the-badge&logo=whatsapp"></a>
