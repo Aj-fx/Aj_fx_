@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=𝐖𝐄𝐋𝐂𝐎𝐌+𝐓𝐎+𝐊𝐀𝐙𝐓𝐑𝐎𝐒𝐄𝐑+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐀𝐉+𝐅𝐗)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=𝐖𝐄𝐋𝐂𝐎𝐌+𝐓𝐎+𝐀𝐉-𝐅𝐗+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐀𝐉-𝐅𝐗)](https://git.io/typing-svg)
  
   <p align="center">
 <span class="avatar"><img height='320' src="https://i.ibb.co/L9VdnSV/a7fcb75eebd3.jpg"> </a></span> 
