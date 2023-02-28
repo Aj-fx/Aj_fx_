@@ -43,3 +43,10 @@
 * [`JulieMwol`](https://github.com/farhan-dqz-Julie)
 * [`Afnan PLK`](https://github.com/afnanplk)
 * [`Alien Alfa`](https://github.com/Alien-Alfa)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aj-fx/Aj_fx_)
+
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Aj-fx/Kaztroser?v=1)
+  
+
